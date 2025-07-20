@@ -2,14 +2,14 @@ name: Deploy MkDocs
 
 on:
   push:
-    branches: [main]  # 每次推送到 main 時觸發
+    branches: [main]
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
+    - name: Checkout repo
       uses: actions/checkout@v3
 
     - name: Setup Python
@@ -23,7 +23,7 @@ jobs:
     - name: Build site
       run: mkdocs build
 
-    - name: Deploy to GitHub Pages
+    - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
