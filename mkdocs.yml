@@ -32,6 +32,7 @@ theme:
     - content.tabs.link
 
 extra:
+  favicon: favicon.ico
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/maudes
