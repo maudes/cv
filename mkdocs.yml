@@ -11,6 +11,7 @@ copyright: "&copy; 2025"
 
 theme:
   name: material
+  favicon: favicon.ico
   language: en
   font:
     text: Muli
@@ -32,7 +33,6 @@ theme:
     - content.tabs.link
 
 extra:
-  favicon: favicon.ico
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/maudes
