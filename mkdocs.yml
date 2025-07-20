@@ -1,0 +1,51 @@
+# Project information
+site_name: Maude Shen
+site_description: Meng-Hsueh, Maude, Shen
+site_author: Maude Shen
+
+site_url: https://maudes.github.io/
+
+
+# Copyright
+copyright: "&copy; 2025"
+
+theme:
+  name: material
+  language: en
+  font:
+    text: Muli
+    code: Roboto Mono
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+
+  features:
+    - navigation.instant
+    - navigation.footer
+    - search.highlight
+    - content.tabs.link
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/maudes
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/meng-hsueh-shen
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@maudeshen
+
+nav:
+  - ABOUT ME: index.md
+  - EXPERIENCE: experience.md
+  - EDUCATION & SKILLS: education_skills.md
+  - PORTFOLIO: portfolio.md
+ 
+ # - Portfolio:
+ #     - WiZ lights: projects/project1.md
+ #     - Baodao: projects/project2.md
