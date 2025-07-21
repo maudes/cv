@@ -8,7 +8,7 @@ description: Joined the fCC Hackathon as a backend developer
 
 ## Project Overview
 
-What is it?
+This is the project from freeCodeCamp Hackathon.
 
 ## Team Size
 
@@ -28,7 +28,7 @@ What is it?
 - Front-end: Jinja
 - Others: Docker, Git
 
-'''
+```
 indigo-class/
 ├── app/
 │   ├── __init__.py          # Flask app factory
@@ -36,8 +36,8 @@ indigo-class/
 │   │   ├── root.py          # Root blueprint and routes
 │   │   ├── auth.py          # Authentication blueprint and routes
 │   │   ├── affirmations.py  # Affirmation blueprint and routes
-│   │   ├── affirmations.py  # Affirmation categories blueprint and routes
-|   |   └── user.py          # User blueprint and routes
+│   │   ├── user_settings.py    # User settings blueprint and routes
+|   |   └── admin_user.py          # User blueprint and routes
 │   ├── static/              # Static files (CSS, JS, images)
 │   └── templates/           # HTML templates
 │       ├── base.html a      # Base template
@@ -72,11 +72,11 @@ indigo-class/
 ├── Dockerfile               # Instructions for building the Docker image
 ├── docker-compose.yml       # Requirements for building the Docker image
 └── README.md                # This file
-'''
+```
 
 ### Contribution
 
-- Deliver `contronllers/admin_user.py` and `contronllers/user_settings.py`
+- Delivered `contronllers/admin_user.py` and `contronllers/user_settings.py`
 - Others: Project management, Integration tests
 
 

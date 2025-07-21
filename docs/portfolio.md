@@ -12,7 +12,7 @@ description: All projects
 <a href="/cv/projects/dailydose/" class="card-link">
   <div class="card-image">
     <img src="../assets/images/dailydose.png" alt="DailyDose Admin Dashboard">
-    <div class="caption">fCC Hackathon "DailyDose" Web App</div>
+    <div class="caption"> DailyDose Web Application</div>
     <div class="tags">#python #flask #backend #sqlalchemy</div>
   </div>
 </a>
