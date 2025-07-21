@@ -2,7 +2,7 @@
 title: SmallSomebody
 layout: blog
 icon: material/hand-heart-outline
-tags: [pm, sdg, social_enterprise, data_analytics, seo]
+tags: [pm, sdg, social_enterprise, data_analytics, seo, open_data]
 description: Led the integration and platform stability, UX performance of WiZ service
 ---
 

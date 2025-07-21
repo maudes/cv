@@ -79,6 +79,7 @@ indigo-class/
 - Delivered `contronllers/admin_user.py` and `contronllers/user_settings.py`
 - Others: Project management, Integration tests
 
+> [GitHub project: indigo-class/DailyDose ](https://github.com/freeCodeCamp-2025-Summer-Hackathon/indigo-class)
 
 ## Highlights
 

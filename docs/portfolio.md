@@ -52,7 +52,7 @@ description: All projects
   <div class="card-image">
     <img src="../assets/images/Smallsomebody_website.jpg" alt="SmallSomebody">
     <div class="caption">SmallSomebody</div>
-    <div class="tags">#ngo #sdgs #data_analytics #ux</div>
+    <div class="tags">#open_data #sdgs #data_analytics #ux</div>
   </div>
 </a>
 
