@@ -10,7 +10,7 @@ description: Developed a tool for anyone who'd like to test local control with t
 
 As the product manager for WiZ’s API services, I oversaw the full spectrum of smart lighting integrations, spanning both cloud and local control protocols. I worked closely with external partners to provide technical support, shape feature requirements, and align on certification processes. One recurring need during PoC and partner validation was a lightweight tool for testing local commands—without relying on cloud infrastructure.
 
-While some community-developed tools exist—particularly from Home Assistant enthusiasts—I created a dedicated CLI utility for personal use: the WiZ Light Local Test Script. It’s a minimal yet effective solution for validating UDP-based local control commands, designed to streamline testing workflows and accelerate integration cycles.
+While some community-developed tools exist—particularly from Home Assistant enthusiasts—I independently designed and developed the WiZ Light Local Test Script, a Python-based CLI utility that enables UDP-based local control testing without cloud dependency. 
 
 
 ## Challenges
@@ -22,12 +22,16 @@ While some community-developed tools exist—particularly from Home Assistant en
 ## Solutions
 
 - Designed and implemented a Python-based CLI tool to send local control commands (e.g., turn on/off, change brightness) based on the device type via UDP
-- Enabled quick validation of device responses using simple command-line inputs
+- Enabled quick validation of device responses using simple command-line inputs or GUI inputs
 - Provided clear documentation and usage examples to testing workflows
 
 ## Technical Stack
 
-**#Python #pytest #streamlit**
+- **Language**: Python
+- **Testing**: pytest
+- **Interface**: CLI (Streamlit optional)
+- **Modules**: UDP communication, test runner, device-type abstraction
+- **Structure**: Modular design with clear separation of concerns
 
 ```
  wiz-light-local-test-script
@@ -44,7 +48,7 @@ While some community-developed tools exist—particularly from Home Assistant en
 ｜＿＿ simple_scripts
 ｜    ｜＿＿ basic_refactor.py
 ｜    ｜＿＿ basic.py
-｜＿＿ cli.py
+｜＿＿ cli.py                    # CLI tool
 ｜＿＿ app.py                    # streamlit
 ｜＿＿ README.md
 ```
@@ -53,6 +57,7 @@ While some community-developed tools exist—particularly from Home Assistant en
 
 ## Highlights
 
-- Delivered a standalone tool with zero external dependencies—ideal for PoC and QA
+- Refactored the tool post-employment into a modular architecture, enabling easier maintenance, extension, and reuse across different device types and testing scenarios. Ideal for PoC and QA
+- Demonstrated end-to-end ownership, from identifying the need to designing, building, and refining the solution independently.
 
 <br>

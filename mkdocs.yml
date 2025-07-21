@@ -60,10 +60,10 @@ extra:
 nav:
   - ABOUT ME: index.md
   - EXPERIENCE: experience.md
-  - EDUCATION & SKILLS: education_skills.md
+  - SKILLS & EDUCATION: education_skills.md
   - PORTFOLIO:
       - Overview: portfolio.md
-      - DailyDoes Web Application: projects/dailydose.md 
+      - DailyDoes Web App: projects/dailydose.md 
       - WiZ Local Test Script: projects/wiz_local.md
       - WiZ Smart light: projects/wiz.md
       - iGaming: projects/igaming.md

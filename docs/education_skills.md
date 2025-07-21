@@ -1,4 +1,39 @@
 
+
+## SKILLS 
+###**Programming Skills**
+
+- **Most used:** [Python](https://www.freecodecamp.org/certification/maudes/scientific-computing-with-python-v7), Flask, pandas
+- **Familiar:** Streamlit, Git, Bash scripting, [PostgreSQL](https://www.freecodecamp.org/certification/maudes/relational-database-v8), MySQL
+- **Others:** [Basic IT support from Google/ Coursera ](https://www.coursera.org/account/accomplishments/specialization/certificate/97Y727NB9DJF) 
+
+###**Digital Analytics**
+
+- Google Analytics, Search Console, SEO, Metabase, SQL, pandas  
+
+###**AI Tools**
+
+- Copilot, NotebookLM (powered by Gemini)
+
+###**Project Management & UX Tools**
+
+- Jira, Confluence, Figma, Airtable, Trello, Miro, Notion
+
+###**Others**
+
+- Certified Emergency Medical Technician (EMT-1) in Taiwan
+
+---
+
+## LANGUAGES      
+
+- **Mandarin:** Native
+- **English:** Proficient         
+> ibtTOEFL(95/120); IELTS(7.5/9)
+- **Japanese:** Beginner
+
+---
+
 ## EDUCATION 
 
 **Cologne Business School**         
@@ -10,38 +45,6 @@
 <sub> ***Taipei, Taiwan  |  2008 - 2012*** </sub>   
 
 - Bachelor of Journalism & minor in Political Science
+> Graduation Academic Average: 87.42 / 100; Total Credits Earned: 173
 
----
-
-## SKILLS & LANGUAGES 
-**Programming Skills**
-
-- **Most used:** [Python](https://www.freecodecamp.org/certification/maudes/scientific-computing-with-python-v7), Flask, pandas
-- **Familiar:** streamlit, Git, Bash scripting, PostgreSQL, MySQL
-- **Others:** Basic IT support from Google/ Coursera [(Certification)](https://www.coursera.org/account/accomplishments/specialization/certificate/97Y727NB9DJF) 
-
-**Digital Analytics**
-
-- Google Analytics, Search Console, SEO, Metabase, SQL, pandas  
-
-**AI Tools**
-
-- Copilot, NotebookLM (powered by Gemini)
-
-**Project Management & UX Tools**
-
-- Jira, Confluence, Figma, Airtable, Trello, Miro, Notion
-
-**Others**
-
-- Certified Emergency Medical Technician (EMT-1) in Taiwan
-      
-**Languages**
-
-- **Mandarin:** Native
-- **English:** Proficient         
-> ibtTOEFL(95/120); IELTS(7.5/9)
-- **Japanese:** Beginner
-
-<br>
 <br>

@@ -12,7 +12,7 @@ description: All projects
 <a href="/cv/projects/dailydose/" class="card-link">
   <div class="card-image">
     <img src="../assets/images/dailydose.png" alt="DailyDose Admin Dashboard">
-    <div class="caption"> DailyDose Web Application</div>
+    <div class="caption"> DailyDose Web App</div>
     <div class="tags">#python #flask #backend #sqlalchemy</div>
   </div>
 </a>
@@ -27,7 +27,7 @@ description: All projects
 
 </div>
 
-## UX / PM Projects
+## PM / UX Projects
 > From requirement definition and naming strategy to product positioning and roadmap planning, bridging design, development, and management disciplines.
 
 <div class="card-grid">
@@ -52,7 +52,7 @@ description: All projects
   <div class="card-image">
     <img src="../assets/images/Smallsomebody_website.jpg" alt="SmallSomebody">
     <div class="caption">SmallSomebody</div>
-    <div class="tags">#open_data #sdgs #data_analytics #ux</div>
+    <div class="tags">#open_data #sdgs #data_analytics</div>
   </div>
 </a>
 
@@ -65,5 +65,4 @@ description: All projects
 </a>
 
 </div>
-
 

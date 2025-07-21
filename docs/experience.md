@@ -29,6 +29,8 @@
 > Leveraged community understanding and tech passion to develop business roadmaps and communication strategies. Managed WordPress CMS, executed quarterly tech events generating 10% company revenue, and implemented data-driven digital strategies achieving 5% growth in social followers and MAU.
 
 
+---
+
 ## SIDE PROJECTS
 ###**Product Manager, [SmallSomebody](https://smallsomebody.tw/home)**         
 <sub> ***Taipei, Taiwan |  Oct 2018 - Jul 2020*** </sub>         
@@ -39,5 +41,4 @@
 <sub> ***Siem Reap, Cambodia  |  Sep 2016 - Dec 2016*** </sub>         
 > Oversaw the development of a new e-commerce platform for a Japanese social enterprise supporting young women. Defined specifications, crafted wireframes, conducted empathy mapping, and applied SEO strategies to strengthen online visibility and engagement.
 
-<br>
 <br>
