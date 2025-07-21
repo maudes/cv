@@ -1,6 +1,6 @@
 # Project information
 site_name: Maude Shen
-site_description: Meng-Hsueh, Maude, Shen
+site_description: 沈孟學 Maude Shen
 site_author: Maude Shen
 
 site_url: https://maudes.github.io/
@@ -8,6 +8,10 @@ site_url: https://maudes.github.io/
 
 # Copyright
 copyright: "&copy; 2025"
+
+plugins:
+  - tags
+  - search
 
 theme:
   name: material
@@ -26,11 +30,23 @@ theme:
         icon: material/lightbulb-outline
         name: Switch to light mode
 
+  markdown_extensions:
+    - attr_list
+    - md_in_html
+    - pymdownx.blocks.caption
+    - tables
+    - adomination
+
+
   features:
     - navigation.instant
     - navigation.footer
     - search.highlight
     - content.tabs.link
+
+extra_css:
+  - assets/css/extra.css
+
 
 extra:
   social:
@@ -45,8 +61,13 @@ nav:
   - ABOUT ME: index.md
   - EXPERIENCE: experience.md
   - EDUCATION & SKILLS: education_skills.md
-  - PORTFOLIO: portfolio.md
- 
- # - Portfolio:
- #     - WiZ lights: projects/project1.md
- #     - Baodao: projects/project2.md
+  - PORTFOLIO:
+      - Overview: portfolio.md
+      - WiZ Local Test Script: projects/wiz_local.md
+      - WiZ Smart light: projects/wiz.md
+      - iGaming: projects/igaming.md
+      - SALASUSU: projects/salasusu.md
+      - SmallSomebody: projects/smallsomebody.md
+
+
+

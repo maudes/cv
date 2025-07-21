@@ -11,6 +11,7 @@
 
 - Bachelor of Journalism & minor in Political Science
 
+---
 
 ## SKILLS & LANGUAGES 
 **Programming Skills**
@@ -21,7 +22,11 @@
 
 **Digital Analytics**
 
-- Google Analytics, Search Console, SEO, Metabase, SQL, pandas    
+- Google Analytics, Search Console, SEO, Metabase, SQL, pandas  
+
+**AI Tools**
+
+- Copilot, NotebookLM (powered by Gemini)
 
 **Project Management & UX Tools**
 
