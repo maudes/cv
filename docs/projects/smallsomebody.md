@@ -10,6 +10,14 @@ description: Led the integration and platform stability, UX performance of WiZ s
 
 What is it?
 
+## Team Size
+
+- Product manager/ UX: 1 (*me)
+- Fullstack engineer: 1
+- Frontend engineer: 1
+- Marketing & operation: 1
+- Graphic designer: 1
+
 ## Challenges
 
 - All the tears
