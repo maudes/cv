@@ -9,7 +9,7 @@ description: All projects
 
 <div class="card-grid">
 
-<a href="/projects/wiz_local/" class="card-link">
+<a href="/cv/projects/wiz_local/" class="card-link">
   <div class="card-image">
     <img src="https://dummyimage.com/600x400/ccc/fff&text=Coming+soon" alt="Placeholder">
     <div class="caption">fCC Hackathon "Daily Dose" Web App</div>
@@ -17,7 +17,7 @@ description: All projects
   </div>
 </a>
 
-<a href="/projects/wiz_local/" class="card-link">
+<a href="/cv/projects/wiz_local/" class="card-link">
   <div class="card-image">
     <img src="../assets/images/wiz_smart_lighting.png" alt="WiZ smart lighting">
     <div class="caption">WiZ Local Control Test</div>
@@ -32,7 +32,7 @@ description: All projects
 
 <div class="card-grid">
 
-<a href="/projects/wiz/" class="card-link">
+<a href="/cv/projects/wiz/" class="card-link">
   <div class="card-image">
     <img src="../assets/images/wiz_integration.png" alt="WiZ smart lighting">
     <div class="caption">WiZ Smart Lighting System</div>
@@ -40,7 +40,7 @@ description: All projects
   </div>
 </a>
 
-<a href="/projects/igaming/" class="card-link">
+<a href="/cv/projects/igaming/" class="card-link">
   <div class="card-image">
     <img src="../assets/images/BaoDao_Home06 2.png" alt="iGaming SaaS">
     <div class="caption">iGaming SaaS System</div>
@@ -48,7 +48,7 @@ description: All projects
   </div>
 </a>
 
-<a href="/projects/smallsomebody/" class="card-link">
+<a href="/cv/projects/smallsomebody/" class="card-link">
   <div class="card-image">
     <img src="../assets/images/Smallsomebody_website.jpg" alt="SmallSomebody">
     <div class="caption">SmallSomebody</div>
@@ -56,7 +56,7 @@ description: All projects
   </div>
 </a>
 
-<a href="/projects/salasusu/" class="card-link">
+<a href="/cv/projects/salasusu/" class="card-link">
   <div class="card-image">
     <img src="../assets/images/salasusu_website.png" alt="SALASUSU">
     <div class="caption">SALASUSU</div>
