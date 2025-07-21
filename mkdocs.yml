@@ -63,6 +63,7 @@ nav:
   - EDUCATION & SKILLS: education_skills.md
   - PORTFOLIO:
       - Overview: portfolio.md
+      - fCC Hackathon "DailyDoes" Web App: projects/dailydose.md 
       - WiZ Local Test Script: projects/wiz_local.md
       - WiZ Smart light: projects/wiz.md
       - iGaming: projects/igaming.md
