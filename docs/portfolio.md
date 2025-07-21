@@ -9,11 +9,11 @@ description: All projects
 
 <div class="card-grid">
 
-<a href="/cv/projects/wiz_local/" class="card-link">
+<a href="/cv/projects/dailydose/" class="card-link">
   <div class="card-image">
-    <img src="https://dummyimage.com/600x400/ccc/fff&text=Coming+soon" alt="Placeholder">
-    <div class="caption">fCC Hackathon "Daily Dose" Web App</div>
-    <div class="tags">#python #flask #backend</div>
+    <img src="../assets/images/dailydose.png" alt="DailyDose Admin Dashboard">
+    <div class="caption">fCC Hackathon "DailyDose" Web App</div>
+    <div class="tags">#python #flask #backend #sqlalchemy</div>
   </div>
 </a>
 
