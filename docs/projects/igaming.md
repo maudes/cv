@@ -78,12 +78,12 @@ I managed the team through an agile and iterative SDLC, adapting methodologies t
 <div class="card-grid">
 
   <a href="./" class="card-item-wrapper"> <div class="card-image">
-      <img src="../assets/images/18_hermes.png" alt="App View">
+      <img src="/cv/assets/images/18_hermes.png" alt="App View">
       <div class="caption"> App View</div>
       <div class="tags"> #app </div>
     </div>
   </a> <a href="./" class="card-item-wrapper"> <div class="card-image">
-      <img src="../assets/images/18_user_journey.png" alt="iGaming User Journey">
+      <img src="/cv/assets/images/18_user_journey.png" alt="iGaming User Journey">
       <div class="caption">User Journey</div>
       <div class="tags">#ux </div>
     </div>

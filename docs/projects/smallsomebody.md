@@ -89,12 +89,12 @@ As a social enterprise side project, we adopted a lightweight, highly collaborat
 <div class="card-grid">
 
   <a href="./" class="card-item-wrapper"> <div class="card-image">
-      <img src="../assets/images/ss_questionnaire.png" alt="UX questionnaire">
+      <img src="/cv/assets/images/ss_questionnaire.png" alt="UX questionnaire">
       <div class="caption"> UX Questionnaire</div>
       <div class="tags"> #ux </div>
     </div>
   </a> <a href="./" class="card-item-wrapper"> <div class="card-image">
-      <img src="../assets/images/ss_sitemap.png" alt="Smallsomebody Sitemap">
+      <img src="/cv/assets/images/ss_sitemap.png" alt="Smallsomebody Sitemap">
       <div class="caption">Smallsomebody Sitemap</div>
       <div class="tags">#ux </div>
     </div>

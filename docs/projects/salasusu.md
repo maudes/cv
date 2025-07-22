@@ -47,6 +47,6 @@ Launching this e-commerce platform from scratch presented several unique and com
 
 
 <div style="text-align: center;">
-  <img src="../assets/images/susu_empathy.png" alt="Empathy Map for SALASUSU" width="450">
+  <img src="/cv/assets/images/susu_empathy.png" alt="Empathy Map for SALASUSU" width="450">
 </div>
 <br>
