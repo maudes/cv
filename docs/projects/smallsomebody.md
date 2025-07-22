@@ -5,7 +5,7 @@ icon: material/hand-heart-outline
 tags: [pm, sdg, social_enterprise, data_analytics, seo, open_data]
 description: Led the integration and platform stability, UX performance of WiZ service
 ---
-![Image](/assets/images/ss_fine_pic.png)
+![Image](../assets/images/ss_fine_pic.png)
 
 ## Project Overview
 
@@ -89,12 +89,12 @@ As a social enterprise side project, we adopted a lightweight, highly collaborat
 <div class="card-grid">
 
   <a href="./" class="card-item-wrapper"> <div class="card-image">
-      <img src="/assets/images/ss_questionnaire.png" alt="UX questionnaire">
+      <img src="../assets/images/ss_questionnaire.png" alt="UX questionnaire">
       <div class="caption"> UX Questionnaire</div>
       <div class="tags"> #ux </div>
     </div>
   </a> <a href="./" class="card-item-wrapper"> <div class="card-image">
-      <img src="/assets/images/ss_sitemap.png" alt="Smallsomebody Sitemap">
+      <img src="../assets/images/ss_sitemap.png" alt="Smallsomebody Sitemap">
       <div class="caption">Smallsomebody Sitemap</div>
       <div class="tags">#ux </div>
     </div>

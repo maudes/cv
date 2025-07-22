@@ -5,7 +5,7 @@ icon: material/hand-heart-outline
 tags: [pm, sdg, social_enterprise, data_analytics, seo]
 description: Supported SALASUSU to release its first e-commerce site
 ---
-![Image](/assets/images/salasusu_website.png)
+![Image](../assets/images/salasusu_website.png)
 
 ## Project Overview
 
@@ -47,6 +47,6 @@ Launching this e-commerce platform from scratch presented several unique and com
 
 
 <div style="text-align: center;">
-  <img src="/assets/images/susu_empathy.png" alt="Empathy Map for SALASUSU" width="450">
+  <img src="../assets/images/susu_empathy.png" alt="Empathy Map for SALASUSU" width="450">
 </div>
 <br>

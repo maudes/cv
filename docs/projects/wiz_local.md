@@ -5,7 +5,7 @@ icon: material/dev-to
 tags: [iot, python, streamlit, automation_test, cli_tool, pytest]
 description: Developed a tool for anyone who'd like to test local control with their WiZ devices
 ---
-![Image](/assets/images/wiz_smart_lighting.png)
+![Image](../assets/images/wiz_smart_lighting.png)
 
 ## Project Overview
 

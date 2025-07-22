@@ -5,7 +5,7 @@ icon: material/home-automation
 tags: [pm, iot, matter_protocol, 3p_integration, ux, technical_support, business_development]
 description: Led the integration and platform stability, UX performance of WiZ service
 ---
-![Image](/assets/images/wiz_smart_lighting.png)
+![Image](../assets/images/wiz_smart_lighting.png)
 
 ## Project Overview
 
@@ -84,26 +84,26 @@ I led the team through an iterative and highly collaborative SDLC, adapted for t
 <div class="card-grid">
 
    <a href="./" class="card-item-wrapper"> <div class="card-image">
-      <img src="/assets/images/WiZ Matter app.png" alt="Matter flow in app">
+      <img src="../assets/images/WiZ Matter app.png" alt="Matter flow in app">
       <div class="caption"> Matter Flow in App</div>
       <div class="tags"> #app #Matter #OTA </div>
     </div>
   </a> 
   <a href="./" class="card-item-wrapper"> <div class="card-image">
-      <img src="/assets/images/wiz_smartthings.png" alt="Demo with Partners">
+      <img src="../assets/images/wiz_smartthings.png" alt="Demo with Partners">
       <div class="caption">Demo with Partners</div>
       <div class="tags">#partnerships </div>
     </div>
   </a> 
 
   <a href="./" class="card-item-wrapper"> <div class="card-image">
-      <img src="/assets/images/Share with 3rd parties.drawio.png" alt="Digram">
+      <img src="../assets/images/Share with 3rd parties.drawio.png" alt="Digram">
       <div class="caption"> Diagram for mechanism discussion </div>
       <div class="tags"> #spec </div>
     </div>
   </a>   
   <a href="./" class="card-item-wrapper"> <div class="card-image">
-      <img src="/assets/images/WiZ testing flow.png" alt="Test flow for partners">
+      <img src="../assets/images/WiZ testing flow.png" alt="Test flow for partners">
       <div class="caption">Test Flow Discussion</div>
       <div class="tags">#validation </div>
     </div>

@@ -5,7 +5,7 @@ icon: material/cards-playing-spade-multiple
 tags: [pm, igaming, saas, app]
 description: Led the integration and platform stability, UX performance of WiZ service
 ---
-![Image](/assets/images/BaoDao_Home06 2.png)
+![Image](../assets/images/BaoDao_Home06 2.png)
 
 ## Project Overview
 
@@ -78,12 +78,12 @@ I managed the team through an agile and iterative SDLC, adapting methodologies t
 <div class="card-grid">
 
   <a href="./" class="card-item-wrapper"> <div class="card-image">
-      <img src="/assets/images/18_hermes.png" alt="App View">
+      <img src="../assets/images/18_hermes.png" alt="App View">
       <div class="caption"> App View</div>
       <div class="tags"> #app </div>
     </div>
   </a> <a href="./" class="card-item-wrapper"> <div class="card-image">
-      <img src="/assets/images/18_user_journey.png" alt="iGaming User Journey">
+      <img src="../assets/images/18_user_journey.png" alt="iGaming User Journey">
       <div class="caption">User Journey</div>
       <div class="tags">#ux </div>
     </div>
