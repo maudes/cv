@@ -5,7 +5,6 @@ Thanks for visiting! If you have questions or would like to discuss an opportuni
 
  - [Linkedin Profile](https://linkedin.com/in/meng-hsueh-shen)
  - [GitHub Profile](https://github.com/maudes)
- - [Streamlit](https://share.streamlit.io/user/maudes)
  - [freeCodeCamp Profile](https://www.freecodecamp.org/maudes)
 
  <br>
