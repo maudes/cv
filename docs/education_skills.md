@@ -3,8 +3,7 @@
 ## SKILLS 
 ###**Programming Skills**
 
-- **Most used:** [Python](https://www.freecodecamp.org/certification/maudes/scientific-computing-with-python-v7), Flask, pandas
-- **Familiar:** Streamlit, Git, Bash scripting, [PostgreSQL](https://www.freecodecamp.org/certification/maudes/relational-database-v8), MySQL
+- **Familiar:**[Python](https://www.freecodecamp.org/certification/maudes/scientific-computing-with-python-v7), Flask, pandas, Streamlit, Git, Bash scripting, [PostgreSQL](https://www.freecodecamp.org/certification/maudes/relational-database-v8), MySQL
 - **Others:** [Basic IT support from Google/ Coursera ](https://www.coursera.org/account/accomplishments/specialization/certificate/97Y727NB9DJF) 
 
 ###**Digital Analytics**
