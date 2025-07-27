@@ -134,4 +134,5 @@ As a hackathon project, we adopted agile and iterative development methodologies
 - **Effective Remote Team Coordination**: Played a key role in coordinating backend development efforts across a newly formed, international team. This involved actively aligning workflows, facilitating communication, and proactively resolving technical blockers to ensure the project met its tight deadlines.
 
 - **End-to-End Project Understanding**: Gained invaluable experience in rapid full-stack development within a hackathon setting, deepening my understanding of the entire SDLC from initial concept to deployment and iteration.
+
 <br>
