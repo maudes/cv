@@ -5,6 +5,7 @@ icon: material/dev-to
 tags: [backend, python, flask, sqlalchemy, git]
 description: Joined the fCC Hackathon as a backend developer
 ---
+![Image](../assets/images/dd_dashboard.png)
 
 ## Project Overview
 
@@ -56,38 +57,48 @@ indigo-class/
 ├── app/
 │   ├── __init__.py          # Flask app factory
 │   ├── controllers/
-│   │   ├── root.py          # Root blueprint and routes
-│   │   ├── auth.py          # Authentication blueprint and routes
-│   │   ├── affirmations.py  # Affirmation blueprint and routes
-│   │   ├── user_settings.py # User settings blueprint and routes  <-- My Contribution
-|   |   └── admin_user.py    # User blueprint and routes           <-- My Contribution
-│   ├── static/              # Static files (CSS, JS, images)
-│   └── templates/           # HTML templates
-│       ├── base.html a      # Base template
-│       ├── _header.html     # Base template's header partial
-│       ├── _footer.html     # Base template's footer partial
+│   │   ├── root.py          
+│   │   ├── auth.py          
+│   │   ├── affirmations.py  
+│   │   ├── categories.py    
+│   │   ├── user.py          # User blueprint and routes  --> My Contribution
+│   │   └── admin/                                        
+│   │       ├── dashboard.py # Admin dashboard blueprint and routes  --> My Contribution
+│   │       └── user.html    # User management blueprint and routes  --> My Contribution
+│   ├── static/               
+│   └── templates/           
+│       ├── base.html     
+│       ├── _header.html      
+│       ├── _footer.html      
 │       ├── home/
-│       │   ├── index.html             # Home page template
+│       │   ├── index.html        
+│       │   └── dashboard.html   
 │       ├── auth/
-│       │   ├── register.html                 # Account registration template
-│       │   ├── login.html                    # Login template
-│       │   ├── profile.html                  # User profile template
-│       │   ├── reset_password_request.html   # Password reset request template
-│       │   └── new_password.html             # New password input template
-│       ├── affirmations/*
-│       ├── categories/*
+│       │   ├── register.html                  
+│       │   ├── login.html                     
+│       │   ├── reset_password_request.html    
+│       │   ├── new_password.html             
+│       │   └── user_settings.html             
+│       ├── affirmations/
+│       │   ├── index.html   
+│       │   ├── add.html      
+│       │   └── edit.html    
+│       ├── categories/
+│       │   ├── list.html     
+│       │   ├── add.html      
+│       │   └── edit.html     
 │       └── admin/
-│           ├── dashboard.html      # Admin dashboard template
-│           ├── users.html          # Users management template
-│           ├── affirmations.html   # Affirmation management template
-│           ├── categories.html     # Categories management template
-│           ├── analytics.html      # Analytics template
-│           └── settings.html       # Admin settings template
-├── main.py                  # Application entry point
-├── pyproject.toml           # Project configuration
-├── Dockerfile               # Instructions for building the Docker image
-├── docker-compose.yml       # Requirements for building the Docker image
-└── README.md                # This file
+│           ├── dashboard.html       
+│           ├── users.html           
+│           ├── affirmations.html   
+│           ├── categories.html     
+│           ├── analytics.html       
+│           └── settings.html        
+├── main.py                   
+├── pyproject.toml           
+├── Dockerfile                
+├── docker-compose.yml        
+└── README.md                 
 ```
 
 > [GitHub project: indigo-class/DailyDose ](https://github.com/freeCodeCamp-2025-Summer-Hackathon/indigo-class)
@@ -108,7 +119,7 @@ As a hackathon project, we adopted agile and iterative development methodologies
 
 - Task Breakdown: Main functionalities were broken down into manageable tasks, and version control systems were used for collaboration.
 
-### Development & Testing (TDD)
+### Development & Testing
 - Collaborative Development: I was primarily responsible for implementing backend controllers and core business logic, coordinating with other backend developers on our respective modules.
 
 - Testing Practices: During development, I implemented integration tests to verify the correct interaction between different backend modules and ensure that data exchange with the frontend met expectations. This was crucial for maintaining code quality within the tight schedule.
@@ -135,4 +146,16 @@ As a hackathon project, we adopted agile and iterative development methodologies
 
 - **End-to-End Project Understanding**: Gained invaluable experience in rapid full-stack development within a hackathon setting, deepening my understanding of the entire SDLC from initial concept to deployment and iteration.
 
-<br>
+<div class="card-grid">
+
+  <a href="./" class="card-item-wrapper"> <div class="card-image">
+      <img src="/cv/assets/images/app_view.png" alt="DailyDose App View">
+      <div class="caption"> DailyDose App View</div>
+      <div class="tags"> #user_view </div>
+    </div>
+  </a> <a href="./" class="card-item-wrapper"> <div class="card-image">
+      <img src="/cv/assets/images/dd_us.png" alt="DailyDose user stories">
+      <div class="caption">User Stories</div>
+      <div class="tags">#ux </div>
+    </div>
+  </a> </div>
