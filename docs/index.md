@@ -1,6 +1,10 @@
-I am a product manager with over 5 years of experience in cross-functional team leadership and comprehensive software development throughout the product lifecycle. Proven track record in managing innovative projects, including the "Matter" connectivity standard initiative at WiZ (Signify), and optimizing global partnerships with leading smart home brands. Proficient in adapting agile methodology to enhance product development and operational efficiency across various sectors. A self-motivated, persistent team player.
+I’m a product manager with 5+ years of experience leading cross-functional teams and driving full-cycle software development. I’ve successfully delivered innovative initiatives—such as the “Matter” connectivity standard at WiZ (Signify)—and built strategic partnerships with top smart home brands to scale global impact.
 
-Thanks for visiting! If you have questions or would like to discuss an opportunity to work together, feel free to get in touch.
+Currently transitioning into backend engineering, I’m deepening my expertise in Python and the FHIR healthcare interoperability standard. My goal is to contribute to mission-driven teams in healthcare, IoT, or emerging tech—whether as a backend engineer or a technical product manager (TPM)—where I can blend technical depth with product vision to build resilient, user-centric systems.
+
+I thrive in agile environments, bring persistence and empathy to every collaboration, and love connecting the dots between user needs, system design, and long-term product strategy.
+
+**Actively seeking opportunities** to build scalable backend systems and collaborate on technically driven products that deliver meaningful impact. Let’s connect if you’re working on something exciting!
 
 
  - [Linkedin Profile](https://linkedin.com/in/meng-hsueh-shen)
