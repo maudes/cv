@@ -66,7 +66,7 @@ As the sole developer and owner of this project, my contributions spanned the en
 ｜    ｜＿＿ basic_refactor.py
 ｜    ｜＿＿ basic.py
 ｜＿＿ cli.py                    # CLI tool
-｜＿＿ app.py                    # streamlit
+｜＿＿ app.py                    # Streamlit GUI
 ｜＿＿ README.md
 ```
 

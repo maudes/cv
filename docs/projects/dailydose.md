@@ -42,7 +42,7 @@ This project leveraged a modern web development stack to ensure robustness and s
 
 ### My Key Contribution
 
-- **Core Backend Module Delivery**: I was directly responsible for developing and delivering the `controllers/admin_user.py` and `controllers/user_settings.py` modules. These were critical for managing user accounts and administrative functionalities.
+- **Core Backend Module Delivery**: I was directly responsible for developing and delivering the `controllers/user_settings.py`, `controllers/admin/user.py` and `controllers/admin/dashboard.py` modules. These were critical for managing user accounts, providing basic data analytics and administrative functionalities.
 
 - **Fundamental User Operations**: Implemented core CRUD (Create, Read, Update, Delete) functionalities for user accounts, laying the foundation for all user-related interactions.
 
@@ -108,7 +108,7 @@ indigo-class/
 As a hackathon project, we adopted agile and iterative development methodologies to meet the demanding timeline.
 
 ### Initiation
-- Requirement Definition: Based on the hackathon theme and team discussions, we defined the core functionalities of DailyDose, focusing on daily affirmations, user management, and basic community interaction.
+- Requirement Definition: Based on the hackathon theme and team discussions, we defined the core functionalities of DailyDose, focusing on daily affirmations, user management, and basic data analytics.
 
 - Project Planning: We rapidly defined the scope of the MVP (Minimum Viable Product) and conducted initial task assignments and timeline estimations.
 
@@ -119,10 +119,8 @@ As a hackathon project, we adopted agile and iterative development methodologies
 
 - Task Breakdown: Main functionalities were broken down into manageable tasks, and version control systems were used for collaboration.
 
-### Development & Testing
+### Development & Problem-solving
 - Collaborative Development: I was primarily responsible for implementing backend controllers and core business logic, coordinating with other backend developers on our respective modules.
-
-- Testing Practices: During development, I implemented integration tests to verify the correct interaction between different backend modules and ensure that data exchange with the frontend met expectations. This was crucial for maintaining code quality within the tight schedule.
 
 - Problem-Solving: Throughout the development process, we rapidly identified and resolved issues such as inconsistencies in cross-team API collaboration and database query optimization, ensuring development progress.
 
@@ -138,7 +136,7 @@ As a hackathon project, we adopted agile and iterative development methodologies
 
 ## Achievements
 
-- **Accelerated Backend Development**: Successfully delivered critical backend modules, including admin user and user settings controllers, entirely from scratch within an extremely compressed timeline, ensuring modularity and maintainability for future expansions.
+- **Accelerated Backend Development**: Successfully delivered critical backend modules, including admin user, admin dashboard, and user settings controllers, entirely from scratch within an extremely compressed timeline, ensuring modularity and maintainability for future expansions.
 
 - **Scalable Architecture Design**: Contributed to the design and implementation of a scalable backend architecture using Flask and SQLAlchemy, which facilitated smooth integration with frontend templates and provides a robust foundation for future feature expansion.
 
