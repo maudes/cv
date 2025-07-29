@@ -498,9 +498,9 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#development-testing-tdd" class="md-nav__link">
+  <a href="#development-testing" class="md-nav__link">
     <span class="md-ellipsis">
-      Development &amp; Testing (TDD)
+      Development &amp; Testing
     </span>
   </a>
   
@@ -783,9 +783,9 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#development-testing-tdd" class="md-nav__link">
+  <a href="#development-testing" class="md-nav__link">
     <span class="md-ellipsis">
-      Development &amp; Testing (TDD)
+      Development &amp; Testing
     </span>
   </a>
   
@@ -875,6 +875,7 @@
 
   <h1>DailyDoes Web App</h1>
 
+<p><img alt="Image" src="../../assets/images/dd_dashboard.png" /></p>
 <h2 id="project-overview">Project Overview</h2>
 <blockquote>
 <p>Empowering Well-being Through Personalized Affirmations</p>
@@ -926,38 +927,48 @@
 ├── app/
 │   ├── __init__.py          # Flask app factory
 │   ├── controllers/
-│   │   ├── root.py          # Root blueprint and routes
-│   │   ├── auth.py          # Authentication blueprint and routes
-│   │   ├── affirmations.py  # Affirmation blueprint and routes
-│   │   ├── user_settings.py # User settings blueprint and routes  &lt;-- My Contribution
-|   |   └── admin_user.py    # User blueprint and routes           &lt;-- My Contribution
-│   ├── static/              # Static files (CSS, JS, images)
-│   └── templates/           # HTML templates
-│       ├── base.html a      # Base template
-│       ├── _header.html     # Base template's header partial
-│       ├── _footer.html     # Base template's footer partial
+│   │   ├── root.py          
+│   │   ├── auth.py          
+│   │   ├── affirmations.py  
+│   │   ├── categories.py    
+│   │   ├── user.py          # User blueprint and routes  --&gt; My Contribution
+│   │   └── admin/                                        
+│   │       ├── dashboard.py # Admin dashboard blueprint and routes  --&gt; My Contribution
+│   │       └── user.html    # User management blueprint and routes  --&gt; My Contribution
+│   ├── static/               
+│   └── templates/           
+│       ├── base.html     
+│       ├── _header.html      
+│       ├── _footer.html      
 │       ├── home/
-│       │   ├── index.html             # Home page template
+│       │   ├── index.html        
+│       │   └── dashboard.html   
 │       ├── auth/
-│       │   ├── register.html                 # Account registration template
-│       │   ├── login.html                    # Login template
-│       │   ├── profile.html                  # User profile template
-│       │   ├── reset_password_request.html   # Password reset request template
-│       │   └── new_password.html             # New password input template
-│       ├── affirmations/*
-│       ├── categories/*
+│       │   ├── register.html                  
+│       │   ├── login.html                     
+│       │   ├── reset_password_request.html    
+│       │   ├── new_password.html             
+│       │   └── user_settings.html             
+│       ├── affirmations/
+│       │   ├── index.html   
+│       │   ├── add.html      
+│       │   └── edit.html    
+│       ├── categories/
+│       │   ├── list.html     
+│       │   ├── add.html      
+│       │   └── edit.html     
 │       └── admin/
-│           ├── dashboard.html      # Admin dashboard template
-│           ├── users.html          # Users management template
-│           ├── affirmations.html   # Affirmation management template
-│           ├── categories.html     # Categories management template
-│           ├── analytics.html      # Analytics template
-│           └── settings.html       # Admin settings template
-├── main.py                  # Application entry point
-├── pyproject.toml           # Project configuration
-├── Dockerfile               # Instructions for building the Docker image
-├── docker-compose.yml       # Requirements for building the Docker image
-└── README.md                # This file
+│           ├── dashboard.html       
+│           ├── users.html           
+│           ├── affirmations.html   
+│           ├── categories.html     
+│           ├── analytics.html       
+│           └── settings.html        
+├── main.py                   
+├── pyproject.toml           
+├── Dockerfile                
+├── docker-compose.yml        
+└── README.md                 
 </code></pre>
 <blockquote>
 <p><a href="https://github.com/freeCodeCamp-2025-Summer-Hackathon/indigo-class">GitHub project: indigo-class/DailyDose </a></p>
@@ -985,7 +996,7 @@
 <p>Task Breakdown: Main functionalities were broken down into manageable tasks, and version control systems were used for collaboration.</p>
 </li>
 </ul>
-<h3 id="development-testing-tdd">Development &amp; Testing (TDD)</h3>
+<h3 id="development-testing">Development &amp; Testing</h3>
 <ul>
 <li>
 <p>Collaborative Development: I was primarily responsible for implementing backend controllers and core business logic, coordinating with other backend developers on our respective modules.</p>
@@ -1030,7 +1041,19 @@
 <p><strong>End-to-End Project Understanding</strong>: Gained invaluable experience in rapid full-stack development within a hackathon setting, deepening my understanding of the entire SDLC from initial concept to deployment and iteration.</p>
 </li>
 </ul>
-<p><br></p>
+<div class="card-grid">
+
+  <a href="./" class="card-item-wrapper"> <div class="card-image">
+      <img src="/cv/assets/images/app_view.png" alt="DailyDose App View">
+      <div class="caption"> DailyDose App View</div>
+      <div class="tags"> #user_view </div>
+    </div>
+  </a> <a href="./" class="card-item-wrapper"> <div class="card-image">
+      <img src="/cv/assets/images/dd_us.png" alt="DailyDose user stories">
+      <div class="caption">User Stories</div>
+      <div class="tags">#ux </div>
+    </div>
+  </a> </div>
 
 
 
