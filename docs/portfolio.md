@@ -11,9 +11,9 @@ description: All projects
 
 <a href="/cv/projects/dailydose/" class="card-link">
   <div class="card-image">
-    <img src="../assets/images/dailydose.png" alt="CarePilot Dashboard">
+    <img src="https://dummyimage.com/600x400/ccc/fff&text= Coming+soon" alt="CarePilot Dashboard">
     <div class="caption"> CarePilot Web App</div>
-    <div class="tags">#python #fastapi #streamlit</div>
+    <div class="tags">#python #fastapi #streamlit #health</div>
   </div>
 </a>
 
@@ -21,7 +21,7 @@ description: All projects
   <div class="card-image">
     <img src="../assets/images/dailydose.png" alt="DailyDose Admin Dashboard">
     <div class="caption"> DailyDose Web App</div>
-    <div class="tags">#python #flask #backend #sqlalchemy</div>
+    <div class="tags">#python #flask #api #sqlalchemy</div>
   </div>
 </a>
 

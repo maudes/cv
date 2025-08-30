@@ -2,7 +2,7 @@
 title: DailyDose Web Application
 layout: blog
 icon: material/dev-to
-tags: [backend, python, flask, sqlalchemy, git]
+tags: [python, flask, sqlalchemy, git]
 description: Joined the fCC Hackathon as a backend developer
 ---
 ![Image](../assets/images/dd_dashboard.png)
@@ -19,7 +19,7 @@ Developed a full-featured web application promoting emotional well-being through
 
 | Role                     | Responsibility                                                  |
 |--------------------------|------------------------------------------------------------------|
-| **Project manager (Myself)** | Project management, Sprint planning, Meeting host |
+| **Project manager (Myself)** | Project management, Sprint planning, Product specification  |
 | **Backend Developers (4, incl. myself)**  | Designed and implemented core server-side modules, ensured data integrity, and supported frontend integration                      |
 | Frontend Developers (5)  | UI/UX implementation, template integration                      |
 
@@ -80,6 +80,7 @@ indigo-class/
 
 **GitHub Repository**: [DailyDose – indigo-class](https://github.com/freeCodeCamp-2025-Summer-Hackathon/indigo-class)
 
+---
 
 <div class="card-grid">
 
