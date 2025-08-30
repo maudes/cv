@@ -11,6 +11,14 @@ description: All projects
 
 <a href="/cv/projects/dailydose/" class="card-link">
   <div class="card-image">
+    <img src="../assets/images/dailydose.png" alt="CarePilot Dashboard">
+    <div class="caption"> CarePilot Web App</div>
+    <div class="tags">#python #fastapi #streamlit</div>
+  </div>
+</a>
+
+<a href="/cv/projects/dailydose/" class="card-link">
+  <div class="card-image">
     <img src="../assets/images/dailydose.png" alt="DailyDose Admin Dashboard">
     <div class="caption"> DailyDose Web App</div>
     <div class="tags">#python #flask #backend #sqlalchemy</div>

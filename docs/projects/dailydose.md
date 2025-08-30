@@ -7,93 +7,70 @@ description: Joined the fCC Hackathon as a backend developer
 ---
 ![Image](../assets/images/dd_dashboard.png)
 
-## Project Overview
+## Project Overview  
 
-> Empowering Well-being Through Personalized Affirmations
+> DailyDose — Mindfulness Web App Built for Hackathon Delivery
 
-DailyDose is a full-featured web application designed to promote mindfulness and emotional well-being through personalized daily affirmations and community-driven features. This project was conceived and developed during the **freeCodeCamp Hackathon in July 2025**, a demanding challenge with a tight **four-week delivery timeline**. Our international team, newly assembled for the hackathon, collaborated remotely to build this platform from the ground up, culminating in a fully functional application complete with a robust admin system.
+Developed a full-featured web application promoting emotional well-being through personalized affirmations and community features. Built during the freeCodeCamp Hackathon (July 2025) under a four-week delivery timeline, the platform includes core user flows and a robust admin system, delivered by a newly assembled international team working remotely.
 
-## Team & My Role
+---
 
-This project involved a distributed, international team:
+## Team Composition & My Role  
 
-- Front-end Developers: 5
-- Back-end Developers: 4 (including myself)
+| Role                     | Responsibility                                                  |
+|--------------------------|------------------------------------------------------------------|
+| **Project manager (Myself)** | Project management, Sprint planning, Meeting host |
+| **Backend Developers (4, incl. myself)**  | Designed and implemented core server-side modules, ensured data integrity, and supported frontend integration                      |
+| Frontend Developers (5)  | UI/UX implementation, template integration                      |
 
-As a Backend Developer, my primary responsibilities centered on designing and implementing core server-side functionalities, ensuring data integrity, and facilitating seamless interaction with the frontend.
+---
 
-## Challenges
+## Key Challenges & Solutions  
 
-Delivering a comprehensive web application with an integrated admin system within a **mere four-week timeframe** presented significant challenges:
+- **Remote Collaboration Under Pressure**：Aligned workflows across a distributed team with no prior collaboration history  
+- **Rapid Scope & Codebase Management**：Delivered a scalable backend and admin system within four weeks, balancing speed and maintainability  
 
-- **Rapid Cross-Functional Collaboration**: Working effectively with a newly assembled and geographically dispersed international team, establishing efficient communication channels, and aligning diverse workflows under extreme time pressure.
+---
 
-- **Aggressive Project & Codebase Management**: Designing, grooming, and validating both the project scope and the codebase with stringent deadlines. This required identifying optimal solutions or creatively developing workarounds to ensure successful delivery without compromising core functionality or scalability.
+## Key Contributions & Impact  
 
-## Tech Stacks & My Contribution
-This project leveraged a modern web development stack to ensure robustness and scalability.
+- **Backend Module Delivery**：Built `user_settings.py`, `admin/user.py`, and `admin/dashboard.py` for account management and analytics  
+- **User Operations**：Implemented core CRUD flows and partial password reset functionality  
+- **Integration Testing**：Designed and executed backend–frontend integration tests to ensure seamless interaction  
+- **Project Coordination**：Contributed to task breakdown, progress tracking, and technical issue resolution  
+- **Scalable Architecture**：Helped design a modular Flask + SQLAlchemy backend for future extensibility  
 
+---
 
-- **Virtual Environment**: uv
-- **Database**: PostgreSQL (SQLlite for testing)
-- **Back-end**: Flask, sqlalchemy
-- **Front-end**: Jinja, CSS, JavaScript
-- **DevOps & Version Control**: Docker, Git
+## Software Development Lifecycle  
 
-### My Key Contribution
+| Phase                   | Key Activities                                                                 |
+|-------------------------|--------------------------------------------------------------------------------|
+| **Initiation**          | - Defined MVP scope: affirmations, user management, analytics<br>- Assigned tasks and timeline |
+| **Planning**            | - Selected Flask + PostgreSQL<br>- Designed modular architecture and API interfaces |
+| **Development & Testing** | - Built backend controllers and business logic<br>- Resolved API inconsistencies and query optimizations |
+| **Release & Deployment** | - Used Docker for environment setup<br>- Deployed collaboratively to cloud platform |
+| **Iteration & Validation** | - Conducted internal testing and feature validation<br>- Designed for future scalability |
 
-- **Core Backend Module Delivery**: I was directly responsible for developing and delivering the `controllers/user_settings.py`, `controllers/admin/user.py` and `controllers/admin/dashboard.py` modules. These were critical for managing user accounts, providing basic data analytics and administrative functionalities.
+---
 
-- **Fundamental User Operations**: Implemented core CRUD (Create, Read, Update, Delete) functionalities for user accounts, laying the foundation for all user-related interactions.
-
-- **Password Reset Flow (Partial)**: Developed a partial of the password reset mechanism, ensuring secure user access and account recovery.
-
-- **Project Management & Integration Testing**: Contributed actively to project management efforts, including task breakdown and progress tracking. Additionally, I designed and executed integration tests to ensure seamless interaction between backend modules and the frontend.
-
-**Project Structure (Relevant Backend Components I worked on)**
+## Project Structure Overview  
+Relevant backend components I contributed to:
 
 ```
 indigo-class/
 ├── app/
-│   ├── __init__.py          # Flask app factory
 │   ├── controllers/
 │   │   ├── root.py          
 │   │   ├── auth.py          
 │   │   ├── affirmations.py  
 │   │   ├── categories.py    
-│   │   ├── user.py          # User blueprint and routes  --> My Contribution
+│   │   ├── user.py          # User routes  --> My Contribution
 │   │   └── admin/                                        
-│   │       ├── dashboard.py # Admin dashboard blueprint and routes  --> My Contribution
-│   │       └── user.html    # User management blueprint and routes  --> My Contribution
+│   │       ├── dashboard.py # Admin dashboard routes  --> My Contribution
+│   │       └── user.html    # Admin user management routes  --> My Contribution
 │   ├── static/               
-│   └── templates/           
-│       ├── base.html     
-│       ├── _header.html      
-│       ├── _footer.html      
-│       ├── home/
-│       │   ├── index.html        
-│       │   └── dashboard.html   
-│       ├── auth/
-│       │   ├── register.html                  
-│       │   ├── login.html                     
-│       │   ├── reset_password_request.html    
-│       │   ├── new_password.html             
-│       │   └── user_settings.html             
-│       ├── affirmations/
-│       │   ├── index.html   
-│       │   ├── add.html      
-│       │   └── edit.html    
-│       ├── categories/
-│       │   ├── list.html     
-│       │   ├── add.html      
-│       │   └── edit.html     
-│       └── admin/
-│           ├── dashboard.html       
-│           ├── users.html           
-│           ├── affirmations.html   
-│           ├── categories.html     
-│           ├── analytics.html       
-│           └── settings.html        
+│   └── templates/               
 ├── main.py                   
 ├── pyproject.toml           
 ├── Dockerfile                
@@ -101,48 +78,8 @@ indigo-class/
 └── README.md                 
 ```
 
-> [GitHub project: indigo-class/DailyDose ](https://github.com/freeCodeCamp-2025-Summer-Hackathon/indigo-class)
+**GitHub Repository**: [DailyDose – indigo-class](https://github.com/freeCodeCamp-2025-Summer-Hackathon/indigo-class)
 
-
-## Software Development Life Cycle 
-As a hackathon project, we adopted agile and iterative development methodologies to meet the demanding timeline.
-
-### Initiation
-- Requirement Definition: Based on the hackathon theme and team discussions, we defined the core functionalities of DailyDose, focusing on daily affirmations, user management, and basic data analytics.
-
-- Project Planning: We rapidly defined the scope of the MVP (Minimum Viable Product) and conducted initial task assignments and timeline estimations.
-
-### Planning
-- Tech Stack Selection: Collaboratively, we decided to use Flask as the backend framework and PostgreSQL as the database, leveraging their lightweight and efficient characteristics for rapid development.
-
-- Architecture Design: We planned the application's modular structure, clearly defined the API interfaces between the frontend and backend, and designed the database's relational model.
-
-- Task Breakdown: Main functionalities were broken down into manageable tasks, and version control systems were used for collaboration.
-
-### Development & Problem-solving
-- Collaborative Development: I was primarily responsible for implementing backend controllers and core business logic, coordinating with other backend developers on our respective modules.
-
-- Problem-Solving: Throughout the development process, we rapidly identified and resolved issues such as inconsistencies in cross-team API collaboration and database query optimization, ensuring development progress.
-
-### Release & Deployment
-- Containerization: We utilized Docker and docker-compose.yml to define our development and deployment environments, ensuring consistency and rapid deployment.
-
-- Deployment: The team collaboratively deployed the application to the designated cloud platform, ensuring its accessibility.
-
-### Metric Review & Iteration
-- Feature Validation: After the project concluded, we conducted internal feature validation and user testing to ensure all core functionalities were running as expected.
-
-- Readiness for Iteration: Although the hackathon had a clear delivery endpoint, we considered future scalability during development, laying the groundwork for potential subsequent iterations.
-
-## Achievements
-
-- **Accelerated Backend Development**: Successfully delivered critical backend modules, including admin user, admin dashboard, and user settings controllers, entirely from scratch within an extremely compressed timeline, ensuring modularity and maintainability for future expansions.
-
-- **Scalable Architecture Design**: Contributed to the design and implementation of a scalable backend architecture using Flask and SQLAlchemy, which facilitated smooth integration with frontend templates and provides a robust foundation for future feature expansion.
-
-- **Effective Remote Team Coordination**: Played a key role in coordinating backend development efforts across a newly formed, international team. This involved actively aligning workflows, facilitating communication, and proactively resolving technical blockers to ensure the project met its tight deadlines.
-
-- **End-to-End Project Understanding**: Gained invaluable experience in rapid full-stack development within a hackathon setting, deepening my understanding of the entire SDLC from initial concept to deployment and iteration.
 
 <div class="card-grid">
 

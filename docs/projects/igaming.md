@@ -7,73 +7,54 @@ description: Led the integration and platform stability, UX performance of WiZ s
 ---
 ![Image](../assets/images/BaoDao_Home06 2.png)
 
-## Project Overview
+## Project Overview  
 
-> Launching a Self-Hosted SaaS for White Label Clients
+> iGaming SaaS Platform — Self-Hosted Lottery Solution for White Label Clients
 
-Following the successful launch of a new Sports Betting App, my team embarked on an ambitious initiative: to develop and release a **self-hosted lottery platform as a SaaS (Software as a Service) solution** designed for private label (white label) clients. The comprehensive scope of this project encompassed delivering a full product suite, ranging from robust user-facing web applications to powerful administrative dashboards, enabling clients to quickly deploy their own branded lottery operations.
+Developed and launched a self-hosted lottery SaaS platform tailored for white-label clients, enabling rapid deployment of branded lottery operations. The product suite included user-facing web applications and administrative dashboards, designed to meet diverse operational needs in a competitive iGaming market.
 
-## Team & My Role
+---
 
-This complex undertaking involved a dedicated cross-functional development team. I served as a Product Manager, playing a pivotal role in shaping the product vision and driving its execution.
+## Team Composition & My Role  
 
-- Product Managers: 2 (including myself)
-- System Architects: 1
-- Engineers: 6 (Total)
-    - Front-end Engineers: 3
-    - Back-end Engineers: 3
-- UI/UX Designers: 2
+| Role                     | Responsibility                                                  |
+|--------------------------|------------------------------------------------------------------|
+| **Product Managers (2, incl. myself)**     | Defined product vision, roadmap, and delivery strategy           |
+| System Architect         | Designed scalable system architecture                           |
+| Frontend Engineers (3)   | Built responsive UI and client-facing features                   |
+| Backend Engineers (3)    | Developed core logic, APIs, and integrations                     |
+| UI/UX Designers (2)      | Created wireframes, prototypes, and design systems               |
 
-As a Product Manager, my role spanned the entire product lifecycle, from initial strategy and discovery to delivery and continuous optimization. I was directly responsible for driving the product development and management for this iGaming SaaS platform.
+As Product Manager, I led the full product lifecycle—from strategy and discovery to development, testing, and optimization—ensuring alignment with business goals and client needs.
 
-## Challenges
-Launching a self-hosted iGaming lottery SaaS platform presented unique and significant challenges:
+---
 
-- **Comprehensive Feature Set for White Label**: Developing a versatile product kit, from user-facing applications to a robust admin dashboard, that could be easily customized and deployed by various white-label clients, catering to their diverse operational needs.
-- **Aggressive Market Entry Timeline**: Delivering a Minimum Viable Product (MVP) and subsequent features within tight deadlines to capture market share in a competitive landscape.
+## Key Challenges & Solutions  
 
-## Tech Stacks & My Contribution
-The platform was built using a modern and scalable tech stack to support its complex functionalities and high-performance requirements.
+- **White Label Feature Set**：Designed a modular product kit with customizable front-end and admin tools for diverse client use cases  
+- **Tight Market Timeline**：Delivered MVP under aggressive deadlines to secure early market entry and client adoption  
 
-- **Frontend Framework**: Vue.js
-- **Backend Language**: PHP
-- **Containerization**: Docker
-- **Methodology**: Agile development (Scrum, Kanban)
+---
 
-### My Key Contributions:
+## Key Contributions & Impact  
 
-- **End-to-End Product Leadership**: Led the complete end-to-end product planning, development, and testing for the SaaS platform. This included overseeing critical components such as payment flow development, building robust data analytics dashboards, and managing chat room functionalities, alongside vendor selection and platform integration.
-- **Agile Development & Delivery**: Managed the agile development process (utilizing Scrum framework elements like planning, daily stand-ups, and PoC demos) to ensure efficient delivery of the MVP SaaS product, achieving a 15% increase in client operational efficiency.
-- **Quality Assurance & Optimization**: Organized and implemented regular performance assessments and comprehensive test plans to refine the scalability, reliability, and stability of products, directly aligning with operational needs and business goals.
-- **Bug Resolution & Stability**: Utilized Kanban for efficient bug resolution, ensuring product stability and supporting key stakeholders.
+- **End-to-End Product Leadership**：Oversaw planning, development, and testing of core modules including payments, analytics dashboards, chat rooms, and admin tools  
+- **Agile Execution**：Managed Scrum-based sprints, daily stand-ups, and PoC demos to ensure timely MVP delivery and iterative improvements  
+- **Quality Assurance**：Led performance testing and QA cycles to ensure scalability and reliability across all components  
+- **Bug Resolution**：Implemented Kanban workflows for efficient issue tracking and resolution  
+- **Operational Efficiency**：Achieved a 15% improvement in client operations post-launch through optimized platform design  
 
-## Software Development Life Cycle
-I managed the team through an agile and iterative SDLC, adapting methodologies to fit the rapid development and dynamic requirements of the iGaming industry.
+---
 
-### Initiation
-- **Scope Definition**: Defined the initial MVP scope for the self-hosted SaaS platform, outlining core features for both user-facing and admin panels, including initial requirements for data dashboards and chat functionalities.
+## Software Development Lifecycle  
 
-### Planning
-- **Roadmap & Backlog Management**: Developed and maintained the product roadmap and backlog, prioritizing features based on business value, technical feasibility, and market demand for all components, including payment, analytics, and chat.
-- **Sprint Planning (Scrum)**: Facilitated regular sprint planning sessions, defining sprint goals and allocating tasks to ensure a clear development path.
-- **Technical Design Collaboration**: Collaborated closely with system architects and engineers on critical architectural decisions for all modules, ensuring a scalable and secure foundation.
+| Phase                   | Key Activities                                                                 |
+|-------------------------|--------------------------------------------------------------------------------|
+| **Initiation**          | - Defined MVP scope for user/admin panels<br>- Outlined requirements for dashboards & chat |
+| **Planning**            | - Built roadmap & prioritized backlog by business value & feasibility<br>- Led sprint planning (Scrum)<br>- Collaborated on scalable architecture with engineers |
+| **Development & Testing** | - Conducted daily stand-ups for progress tracking<br>- Oversaw development of auth, payments, dashboards, chat, admin tools<br>- Used Kanban for bug tracking<br>- Led QA: functional, integration, performance testing |
+| **Release & Deployment** | - Delivered MVP on schedule<br>- Enabled early client onboarding & feedback loop |
 
-### Development & Testing (Agile & Continuous)
-- **Daily Stand-ups**: Conducted daily stand-ups to monitor progress, identify blockers, and ensure team alignment.
-- **Feature Development**: Oversaw the development of key functionalities, including user authentication, game logic, payment integrations, comprehensive data dashboards, and real-time chat room functionalities, as well as administrative tools.
-- **Kanban for Bug Resolution**: Implemented a Kanban system for efficient tracking and resolution of bugs, ensuring product stability and quick responses to issues.
-- **Quality Assurance**: Orchestrated regular performance assessments and comprehensive test plans (including functional, integration, and performance testing) to ensure product reliability and stability across all modules.
-
-### Release & Deployment
-- **MVP Launch**: Successfully delivered the MVP SaaS product on schedule, enabling early client onboarding and feedback.
-
-## Achievements
-
-- **Product Leadership**: Led end-to-end product planning and testing, encompassing critical areas like payment flow development, data analytics processes, and real-time chat room integration, while consistently ensuring adherence to project schedules and on-time delivery.
-
-- **Robust & Scalable Platform Foundation**: Orchestrated regular performance assessments and test plans to build and refine the scalability, reliability, and stability of products, meeting stringent operational needs and business goals in a demanding industry.
-
-- **Effective Agile Implementation**: Successfully implemented agile development and Kanban methodologies to manage complex product development cycles, demonstrating strong project execution and problem-solving skills in a fast-paced environment.
 
 <div class="card-grid">
 
