@@ -63,6 +63,7 @@ nav:
   - SKILLS & EDUCATION: education_skills.md
   - PORTFOLIO:
       - Overview: portfolio.md
+      - CarePilot Web App: projects/carepilot.md
       - DailyDoes Web App: projects/dailydose.md 
       - WiZ Local Test Script: projects/wiz_local.md
       - WiZ Smart light: projects/wiz.md
