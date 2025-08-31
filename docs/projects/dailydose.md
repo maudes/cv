@@ -24,6 +24,16 @@ Developed a full-featured web application promoting emotional well-being through
 | Frontend Developers (5)  | UI/UX implementation, template integration                      |
 
 ---
+### Tech Stack  
+
+| Category     | Technologies Used                                      |
+|--------------|--------------------------------------------------------|
+| **Backend**  | Flask, SQLAlchemy, SMTP, Bcrypt                        |
+| **Frontend** | Jinja                                                  |
+| **Database** | PostgreSQL                                             |
+| **DevOps**   | Docker                                                 |
+
+---
 
 ## Key Challenges & Solutions  
 

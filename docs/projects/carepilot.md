@@ -26,29 +26,19 @@ Sole developer and product owner of the project. Led the full lifecycle from arc
 | Category     | Technologies Used                                      |
 |--------------|--------------------------------------------------------|
 | **Backend**  | FastAPI, SQLAlchemy, Pydantic, Redis, SMTP             |
+| **Frontend** | Streamlit                                              |
 | **Database** | PostgreSQL + Alembic                                   |
 | **DevOps**   | Docker, multi-env configuration                        |
-| **Standards**| FHIR (HL7) for health data interoperability            |
 | **Testing**  | Pytest                                                 |
-
 
 ---
 
 ## Key Challenges & Solutions  
 
-- **Health Data Modeling & Interoperability**：Designed a flexible schema using SQLAlchemy and Pydantic, with planned support for FHIR conversion  
-- **Authentication & Security**：Implemented JWT and OTP-based authentication with multi-environment support for secure access  
+- **Health Data Modeling & Interoperability**：Designed a scalable FastAPI backend with SQLAlchemy ORM and Pydantic schema validation, with planned support for FHIR conversion  
+- **Authentication & Security**：Implemented JWT and OTP-based authentication with multi-environment support, Redis-backed session management for secure access  
 - **Scalability & Maintainability**：Built a modular backend architecture with Alembic migrations and Dockerized environments for long-term extensibility  
-
----
-
-## Key Contributions & Impact  
-
-- **End-to-End Development**：Built core features including health metric input, goal tracking, trend visualization, and data export  
-- **Backend Architecture**：Designed a scalable FastAPI backend with SQLAlchemy ORM and Pydantic schema validation  
-- **Authentication System**：Implemented secure login flows using JWT and OTP, with Redis-backed session management  
-- **Testing & Reliability**：Used pytest for unit testing and validation of core modules  
-- **FHIR Integration (Planned)**：Defined roadmap for HL7 FHIR data conversion and third-party API integration  
+- **Testing & Reliability**：Used pytest for unit testing and validation of core modules
 
 ---
 
