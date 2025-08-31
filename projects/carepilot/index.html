@@ -461,15 +461,6 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#key-contributions-impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      Key Contributions &amp; Impact
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#software-development-lifecycle" class="md-nav__link">
     <span class="md-ellipsis">
       Software Development Lifecycle
@@ -720,15 +711,6 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#key-contributions-impact" class="md-nav__link">
-    <span class="md-ellipsis">
-      Key Contributions &amp; Impact
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#software-development-lifecycle" class="md-nav__link">
     <span class="md-ellipsis">
       Software Development Lifecycle
@@ -822,16 +804,16 @@
 <td>FastAPI, SQLAlchemy, Pydantic, Redis, SMTP</td>
 </tr>
 <tr>
+<td><strong>Frontend</strong></td>
+<td>Streamlit</td>
+</tr>
+<tr>
 <td><strong>Database</strong></td>
 <td>PostgreSQL + Alembic</td>
 </tr>
 <tr>
 <td><strong>DevOps</strong></td>
 <td>Docker, multi-env configuration</td>
-</tr>
-<tr>
-<td><strong>Standards</strong></td>
-<td>FHIR (HL7) for health data interoperability</td>
 </tr>
 <tr>
 <td><strong>Testing</strong></td>
@@ -842,18 +824,10 @@
 <hr />
 <h2 id="key-challenges-solutions">Key Challenges &amp; Solutions</h2>
 <ul>
-<li><strong>Health Data Modeling &amp; Interoperability</strong>：Designed a flexible schema using SQLAlchemy and Pydantic, with planned support for FHIR conversion  </li>
-<li><strong>Authentication &amp; Security</strong>：Implemented JWT and OTP-based authentication with multi-environment support for secure access  </li>
+<li><strong>Health Data Modeling &amp; Interoperability</strong>：Designed a scalable FastAPI backend with SQLAlchemy ORM and Pydantic schema validation, with planned support for FHIR conversion  </li>
+<li><strong>Authentication &amp; Security</strong>：Implemented JWT and OTP-based authentication with multi-environment support, Redis-backed session management for secure access  </li>
 <li><strong>Scalability &amp; Maintainability</strong>：Built a modular backend architecture with Alembic migrations and Dockerized environments for long-term extensibility  </li>
-</ul>
-<hr />
-<h2 id="key-contributions-impact">Key Contributions &amp; Impact</h2>
-<ul>
-<li><strong>End-to-End Development</strong>：Built core features including health metric input, goal tracking, trend visualization, and data export  </li>
-<li><strong>Backend Architecture</strong>：Designed a scalable FastAPI backend with SQLAlchemy ORM and Pydantic schema validation  </li>
-<li><strong>Authentication System</strong>：Implemented secure login flows using JWT and OTP, with Redis-backed session management  </li>
-<li><strong>Testing &amp; Reliability</strong>：Used pytest for unit testing and validation of core modules  </li>
-<li><strong>FHIR Integration (Planned)</strong>：Defined roadmap for HL7 FHIR data conversion and third-party API integration  </li>
+<li><strong>Testing &amp; Reliability</strong>：Used pytest for unit testing and validation of core modules</li>
 </ul>
 <hr />
 <h2 id="software-development-lifecycle">Software Development Lifecycle</h2>
