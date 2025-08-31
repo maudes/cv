@@ -9,7 +9,7 @@ description: All projects
 
 <div class="card-grid">
 
-<a href="/cv/projects/dailydose/" class="card-link">
+<a href="/cv/projects/carepilot/" class="card-link">
   <div class="card-image">
     <img src="https://dummyimage.com/600x400/ccc/fff&text= Coming+soon" alt="CarePilot Dashboard">
     <div class="caption"> CarePilot Web App</div>

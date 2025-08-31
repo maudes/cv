@@ -3,8 +3,10 @@
 ## SKILLS 
 ###**Programming Skills**
 
-- **Familiar:** [Python](https://www.freecodecamp.org/certification/maudes/scientific-computing-with-python-v7), Flask, pandas, Streamlit, Git, Bash
+- **Familiar:** [Python](https://www.freecodecamp.org/certification/maudes/scientific-computing-with-python-v7), FastAPI, Flask, pandas, Streamlit, Git, Bash
+- **Backend Tools:** SQLAlchemy, Redis, JWT (jose) token-based auth, Alembic
 - **RDBMS:** [PostgreSQL](https://www.freecodecamp.org/certification/maudes/relational-database-v8), MySQL
+- **Testing Tools:** pytest, Postman, playwright (learning)
 - **Others:** [Basic IT support from Google/ Coursera ](https://www.coursera.org/account/accomplishments/specialization/certificate/97Y727NB9DJF) 
 
 ###**Digital Analytics**
