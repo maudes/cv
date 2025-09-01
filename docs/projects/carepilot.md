@@ -5,7 +5,7 @@ icon: material/dev-to
 tags: [python, streamlit, fastapi, sqlalchemy, pytest]
 description: CarePilot is a personal project designed to help users record and track their health data over time. 
 ---
-![Image](../assets/images/wiz_smart_lighting.png)
+![Image]()
 
 
 ## Project Overview  

@@ -19,7 +19,7 @@
 
 ###**Project Management & UX Tools**
 
-- Jira, Confluence, Figma, Airtable, Trello, Miro, Notion
+- Jira, Confluence, Figma, Airtable, Miro, Notion, draw.io, Mermaid, DBdiagram
 
 ###**Others**
 
