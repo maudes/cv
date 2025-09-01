@@ -1,25 +1,29 @@
 
 
 ## SKILLS 
-###**Programming Skills**
+### Languages & Frameworks
+- **Python** ([Scientific Computing Certificate](https://www.freecodecamp.org/certification/maudes/scientific-computing-with-python-v7))
+- FastAPI, Flask, Streamlit, pandas, Bash
 
-- **Familiar:** [Python](https://www.freecodecamp.org/certification/maudes/scientific-computing-with-python-v7), FastAPI, Flask, pandas, Streamlit, Git, Bash
-- **Backend Tools:** SQLAlchemy, Redis, JWT (jose) token-based auth, Alembic
-- **RDBMS:** [PostgreSQL](https://www.freecodecamp.org/certification/maudes/relational-database-v8), MySQL
-- **Testing Tools:** pytest, Postman, playwright (learning)
-- **Others:** [Basic IT support from Google/ Coursera ](https://www.coursera.org/account/accomplishments/specialization/certificate/97Y727NB9DJF) 
+### Backend Architecture
+- SQLAlchemy, Alembic, Redis  
+- JWT token-based authentication  
+- **PostgreSQL** ([Relational Database Certificate](https://www.freecodecamp.org/certification/maudes/relational-database-v8)), MySQL
 
-###**Digital Analytics**
+### Testing & QA Automation
+- pytest, Postman, Playwright (learning)  
+- CLI tool development, protocol validation
 
-- Google Analytics, Search Console, SEO, Metabase, SQL, pandas  
+### AI & Automation Tools
+- Copilot, NotebookLM (Gemini), n8n (Discord webhook)
 
-###**AI Tools**
+### Digital Analytics
+- Google Analytics, Search Console, SEO  
+- Metabase, SQL, pandas
 
-- Copilot, NotebookLM (powered by Gemini)
-
-###**Project Management & UX Tools**
-
-- Jira, Confluence, Figma, Airtable, Miro, Notion, draw.io, Mermaid, DBdiagram
+### Project Management & UX Tools
+- Jira, Confluence, Figma, Airtable, Miro, Notion  
+- draw.io, Mermaid, DBdiagram
 
 ###**Others**
 
@@ -33,6 +37,31 @@
 - **English:** Proficient         
 > ibtTOEFL(95/120); IELTS(7.5/9)
 - **Japanese:** Beginner
+
+---
+
+## CERTIFICATIONS
+
+- [Pandas - Kaggle (2025)](https://www.kaggle.com/learn/certification/maudeshen/pandas)  
+  *DataFrame syntax, NumPy integration, file conversion*
+
+- [Relational Database – freeCodeCamp (2025)](https://www.freecodecamp.org/certification/maudes/relational-database-v8)  
+  *SQL joins, schema design, Bash scripting, and ER modeling*
+
+- [Scientific Computing with Python – freeCodeCamp (2021)](https://www.freecodecamp.org/certification/maudes/scientific-computing-with-python-v7)  
+  *OOP, file I/O, regex, APIs, and SQLite*
+
+- [Google IT Support – Coursera (2021)](https://www.coursera.org/account/accomplishments/specialization/certificate/97Y727NB9DJF)  
+  *Troubleshooting, networking, Linux CLI, system administration, and security*
+
+> More to check: [LinkedIn Page](https://www.linkedin.com/in/meng-hsueh-shen/details/certifications/)
+
+## AWARDS
+
+- [“The 2024 Q2 Excellence Award-Best Employee”](https://www.linkedin.com/in/meng-hsueh-shen/details/certifications/1725845537883/single-media-viewer/?profileId=ACoAAAxrG20BAZAty8k3Y3zmtzUCqAzt0MvNP7o)  
+  by Signify WiZ business unit
+- [“The 2022 Annual Excellence Award-Best Employee”](https://www.linkedin.com/in/meng-hsueh-shen/details/certifications/1725845351253/single-media-viewer/?profileId=ACoAAAxrG20BAZAty8k3Y3zmtzUCqAzt0MvNP7o)  
+  by Signify WiZ business unit
 
 ---
 

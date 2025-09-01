@@ -92,4 +92,10 @@ carepilot-dashboard/
 
 **GitHub Repository**: [CarePilot Dashboard](https://github.com/maudes/carepilot-dashboard)
 
+---
+
+## Demo Video
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/vUQTXPYX7bw" frameborder="0" allowfullscreen></iframe>
+
 <br>

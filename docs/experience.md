@@ -1,7 +1,7 @@
 
 ###**Software Product Manager, [WiZ](https://www.wizconnected.com/en-us)/ Signify**         
 <sub> ***Hong Kong   |  Jul 2021 - Sep 2024*** </sub>
-> At [Signify](https://www.signify.com/) (formerly Philips Lighting), I managed WiZ-connected product integration, roadmaps, apps, APIs, and global partnerships. Leading a cross-functional R&D team of 10, I optimized systems for over one million WiZ homes while supporting global retail operations.
+> At [Signify](https://www.signify.com/) (formerly Philips Lighting), I managed WiZ-connected product integration, roadmaps, apps, APIs, and global partnerships. Leading a cross-functional R&D team of 10, I optimized systems for **1M+** WiZ homes while supporting global retail operations.
 
 - Launched the [Matter](https://www.theverge.com/2023/4/25/23697537/wiz-smart-bulbs-matter-compatible-apple-home) smart home connectivity initiative from the ground up and drove it to market within one year, rolling it out to millions of WiZ and partner products by applying agile and waterfall hybrid approaches and establishing training processes.
 - Directed smart home API/OEM initiatives and established strategic partnerships with Google, SmartThings, and Amazon to align standards, coordinate testing, and ensure hardware/software compatibility.
