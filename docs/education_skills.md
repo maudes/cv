@@ -11,7 +11,7 @@
 - **PostgreSQL** ([Relational Database Certificate](https://www.freecodecamp.org/certification/maudes/relational-database-v8)), MySQL
 
 ### Testing & QA Automation
-- pytest, Postman, Playwright (learning)  
+- pytest, Postman, Playwright  
 - CLI tool development, protocol validation
 
 ### AI & Automation Tools

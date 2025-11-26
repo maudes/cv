@@ -27,6 +27,7 @@ Sole developer and product owner of the project. Led the full lifecycle from arc
 | **Backend**  | FastAPI, SQLAlchemy, Pydantic, Redis, SMTP             |
 | **Frontend** | Streamlit                                              |
 | **Database** | PostgreSQL + Alembic                                   |
+| **Data Analytics** | pandas (matplotlib)                              |
 | **DevOps**   | Docker, multi-env configuration                        |
 | **Testing**  | Pytest                                                 |
 
