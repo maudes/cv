@@ -1,29 +1,31 @@
 
 
 ## SKILLS 
+### Project & Product Management
+- Methodologies: Scrum (Experienced), Agile (Lean Principles), Kanban, Waterfall, Iterative Development
+- Collaboration Tools: Jira, Confluence, Figma, Airtable, Miro, Notion
+- Diagramming/Modeling: draw.io, Mermaid, DBdiagram
+  
 ### Languages & Frameworks
-- **Python** ([Scientific Computing Certificate](https://www.freecodecamp.org/certification/maudes/scientific-computing-with-python-v7))
-- FastAPI, Flask, Streamlit, pandas, Bash
+- Languages: **Python** ([Scientific Computing Certificate](https://www.freecodecamp.org/certification/maudes/scientific-computing-with-python-v7)), Bash
+- Frameworks: FastAPI, Flask, Streamlit
 
 ### Backend Architecture
-- SQLAlchemy, Alembic, Redis  
-- JWT token-based authentication  
-- **PostgreSQL** ([Relational Database Certificate](https://www.freecodecamp.org/certification/maudes/relational-database-v8)), MySQL
+- IoT Protocol: Matter
+- API development, JWT token-based authentication (OAuth 2.0 principles)
+- Databases: **PostgreSQL** ([Relational Database Certificate](https://www.freecodecamp.org/certification/maudes/relational-database-v8)), MySQL
 
 ### Testing & QA Automation
-- pytest, Postman, Playwright  
-- CLI tool development, protocol validation
+- Testing Frameworks: pytest, Playwright (E2E testing)
+- CLI tool development
+- Postman API testing
 
 ### AI & Automation Tools
-- Copilot, NotebookLM (Gemini), n8n (Discord webhook)
+- Copilot, NotebookLM (Gemini), Workflow automation (n8n)
 
 ### Digital Analytics
 - Google Analytics, Search Console, SEO  
 - Metabase, SQL, pandas
-
-### Project Management & UX Tools
-- Jira, Confluence, Figma, Airtable, Miro, Notion  
-- draw.io, Mermaid, DBdiagram
 
 ###**Others**
 
