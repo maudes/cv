@@ -27,7 +27,7 @@
 - Google Analytics, Search Console, SEO  
 - Metabase, SQL, pandas
 
-###**Others**
+### **Others**
 
 - Certified Emergency Medical Technician (EMT-1) in Taiwan
 
