@@ -1,5 +1,6 @@
 ###**Software Product Manager, General Mobile/ Fii from Foxconn Group** <br>
 <sub> ***Taipei, Taiwan  |  Nov 2025 - Present*** </sub>
+
 - Defined software roadmap by synthesizing market trends, client needs, and emerging technologies, integrating Matter protocol.
 - Drove 0-to-1 development of hardware-integrated features, collaborating with engineering from concept to initial system design.
 
