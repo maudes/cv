@@ -1,3 +1,7 @@
+###**Software Product Manager, General Mobile/ Fii from Foxconn Group** <br>
+<sub> ***Taipei, Taiwan  |  Nov 2025 - Present*** </sub>
+- Defined software roadmap by synthesizing market trends, client needs, and emerging technologies, integrating Matter protocol.
+- Drove 0-to-1 development of hardware-integrated features, collaborating with engineering from concept to initial system design.
 
 ###**Software Product Manager, [WiZ](https://www.wizconnected.com/en-us)/ Signify**         
 <sub> ***Hong Kong   |  Jul 2021 - Sep 2024*** </sub>
@@ -13,7 +17,7 @@
 <sub> ***Taipei, Taiwan/ Manila, Philippines  |  Feb 2018 - Aug 2020*** </sub>
 > At GLVictory Technology (iGaming, including business units: ICSGame and 33Tech.co), I transitioned from marketing strategy to product discovery and initiation, spanning digital campaigns, web development, sports betting apps, and iGaming SaaS. I managed agile development and Kanban bug resolution to support stakeholders and maintain turnover stability.
 
-- Delivered MVP SaaS product using the Scrum framework (planning, daily stand-up, PoC demo), achieving a 15% increase in client efficiency.
+- Delivered a zero-to-one MVP SaaS product using the Scrum framework (planning, daily stand-up, PoC demo), achieving a 15% increase in client efficiency.
 - Led end-to-end product planning and testing, including payment flow development, data analytics processes, and vendor selection, while ensuring adherence to project schedules and in-time delivery.
 - Organized regular performance assessments and test plans to refine the scalability, reliability, and stability of products for operational needs/business goals.
 - Took charge of the sports betting app revamp, refining user flows to enhance engagement, boost conversions, and drive revenue growth in alignment with business goals.
