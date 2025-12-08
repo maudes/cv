@@ -1,10 +1,10 @@
-###**Software Product Manager, General Mobile/ Fii from Foxconn Group** <br>
+###**Software Product Manager, [General Mobile](https://www.generalmobile.com/) | Fii, Foxconn Group** <br>
 <sub> ***Taipei, Taiwan  |  Nov 2025 - Present*** </sub>
 
 - Defined software roadmap by synthesizing market trends, client needs, and emerging technologies, integrating Matter protocol.
 - Drove 0-to-1 development of hardware-integrated features, collaborating with engineering from concept to initial system design.
 
-###**Software Product Manager, [WiZ](https://www.wizconnected.com/en-us)/ Signify**         
+###**Software Product Manager, [WiZ](https://www.wizconnected.com/en-us) | Signify**         
 <sub> ***Hong Kong   |  Jul 2021 - Sep 2024*** </sub>
 > At [Signify](https://www.signify.com/) (formerly Philips Lighting), I managed WiZ-connected product integration, roadmaps, apps, APIs, and global partnerships. Leading a cross-functional R&D team of 10, I optimized systems for **1M+** WiZ homes while supporting global retail operations.
 
