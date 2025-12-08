@@ -1,14 +1,10 @@
-I’m a product manager with 5+ years of experience leading cross-functional teams and driving full-cycle software development. I’ve successfully delivered innovative initiatives—such as the “Matter” connectivity standard at WiZ (Signify)—and built strategic partnerships with top smart home brands to scale global impact.
+I’m a **Technical Product Manager** with **6 years** of experience leading cross-functional teams and driving full-cycle software development. I’ve successfully delivered high-impact initiatives—such as the **Matter connectivity standard** at Signify, enabling **1M+** device compatibility—and **built strategic API partnerships** with top smart home brands like Google, Amazon, and SmartThings to scale global impact.
 
-Currently transitioning into backend engineering, I’m deepening my expertise in Python and the FHIR healthcare interoperability standard. My goal is to contribute to mission-driven teams in healthcare, IoT, or emerging tech—whether as a backend engineer or a technical product manager (TPM)—where I can blend technical depth with product vision to build resilient, user-centric systems.
+To build truly resilient, scalable, and low-latency products, I am continuously deepening my technical expertise in **backend system design (including Network and Security fundamentals),** alongside **Python and SQL**. This foundation allows me to more effectively collaborate with engineering from concept to initial system design, whether driving **0-to-1 hardware-integrated features** for **high-stakes user environments** or defining data-driven product prioritization frameworks. My goal is to contribute as a Technical Product Manager in mission-driven teams in IoT (healthcare, automotive tech, appliances), or emerging tech.
 
-I thrive in agile environments, bring persistence and empathy to every collaboration, and love connecting the dots between user needs, system design, and long-term product strategy.
-
-**Actively seeking opportunities** to build scalable backend systems and collaborate on technically driven products that deliver meaningful impact. Let’s connect if you’re working on something exciting!
-
+I thrive in agile environments, bring persistence and empathy to every collaboration, and excel at connecting the dots between user needs, system architecture, and long-term product strategy. Actively seeking opportunities where I can blend deep technical understanding with product vision to build user-centric systems that deliver meaningful impact. Let’s connect if you’re working on something exciting!
 
  - [Linkedin Profile](https://linkedin.com/in/meng-hsueh-shen)
  - [GitHub Profile](https://github.com/maudes)
- - [freeCodeCamp Profile](https://www.freecodecamp.org/maudes)
 
  <br>
