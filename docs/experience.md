@@ -1,4 +1,4 @@
-###**Software Product Manager, [General Mobile](https://www.generalmobile.com/) | Fii, Foxconn Group** <br>
+###**Software Product Line Manager, [General Mobile](https://www.generalmobile.com/) | Fii, Foxconn** <br>
 <sub> ***Taipei, Taiwan  |  Nov 2025 - Present*** </sub>
 
 - Defined software roadmap for smart home products by leading Matter protocol integration, synthesizing market trends, client requirements, and ecosystem constraints (OEM/ODM, chipset, platform).
