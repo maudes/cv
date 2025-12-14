@@ -33,15 +33,6 @@
 
 ---
 
-## LANGUAGES      
-
-- **Mandarin:** Native
-- **English:** Proficient         
-> ibtTOEFL(95/120); IELTS(7.5/9)
-- **Japanese:** Beginner
-
----
-
 ## CERTIFICATIONS
 
 - [Pandas - Kaggle (2025)](https://www.kaggle.com/learn/certification/maudeshen/pandas)  
@@ -58,6 +49,11 @@
 
 > More to check: [LinkedIn Page](https://www.linkedin.com/in/meng-hsueh-shen/details/certifications/)
 
+## COMMUNITY
+- Civic Tech Taiwan, finalist (2025)
+- freeCodeCamp Hackathon (2025)
+- [NetTuesday.tw Speaker](https://nettuesday.tw/slides/2019/03/584) (2019)
+
 ## AWARDS
 
 - [“The 2024 Q2 Excellence Award-Best Employee”](https://www.linkedin.com/in/meng-hsueh-shen/details/certifications/1725845537883/single-media-viewer/?profileId=ACoAAAxrG20BAZAty8k3Y3zmtzUCqAzt0MvNP7o)  
@@ -66,6 +62,13 @@
   by Signify WiZ business unit
 
 ---
+
+## LANGUAGES      
+
+- **Mandarin:** Native
+- **English:** Proficient         
+> ibtTOEFL(95/120); IELTS(7.5/9)
+- **Japanese:** Beginner
 
 ## EDUCATION 
 

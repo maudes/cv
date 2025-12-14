@@ -1,7 +1,7 @@
 ###**Software Product Manager, [General Mobile](https://www.generalmobile.com/) | Fii, Foxconn Group** <br>
 <sub> ***Taipei, Taiwan  |  Nov 2025 - Present*** </sub>
 
-- Defined software roadmap by synthesizing market trends, client needs, and emerging technologies, integrating Matter protocol.
+- Defined software roadmap for smart home products by leading Matter protocol integration, synthesizing market trends, client requirements, and ecosystem constraints (OEM/ODM, chipset, platform).
 - Drove 0-to-1 development of hardware-integrated features, collaborating with engineering from concept to initial system design.
 
 ###**Software Product Manager, [WiZ](https://www.wizconnected.com/en-us) | Signify**         
