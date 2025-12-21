@@ -6,6 +6,8 @@
 * **Technical Depth:** Hands-on experience in **system design, networking, and security fundamentals**, using **Python and SQL** to drive data-informed architecture decisions.
 * **Strategic Impact:** Proven track record in **0→1 product discovery**, transforming complex technical constraints into seamless, user-centered experiences for global markets.
 
+---
+
  - [Linkedin Profile](https://linkedin.com/in/meng-hsueh-shen)
  - [GitHub Profile](https://github.com/maudes)
 
