@@ -1,8 +1,10 @@
-Software Product Manager with around 6 years of experience building **0→1 and scaled products across software platforms, including IoT and connected systems**. Led the Matter connectivity standard at Signify, enabling **1M+ device** compatibility, and built API partnerships with **Google, Amazon, and SmartThings**.
+## Platform Product Manager
+*6 Years of Experience | IoT, Scalable Systems & Protocol Strategy*
 
-Works closely with engineering and design teams from problem discovery through initial system design, leveraging backend systems, networking and security fundamentals, and data (Python, SQL) to shape scalable, low-latency, and user-centered solutions.
-
-Thrives in agile, exploratory teams by connecting user needs, system architecture, and long-term product strategy to create meaningful impact in IoT and connected technologies, with a strong interest in automotive tech and healthcare.
+* **Platform Leadership:** Directed the global **Matter protocol** rollout at Signify, achieving compatibility for **1M+ devices** and defining internal platform standards.
+* **Ecosystem Integration:** Expert in building and managing **API partnerships** with industry giants including **Google, Amazon, and Samsung SmartThings**.
+* **Technical Depth:** Hands-on experience in **system design, networking, and security fundamentals**, using **Python and SQL** to drive data-informed architecture decisions.
+* **Strategic Impact:** Proven track record in **0→1 product discovery**, transforming complex technical constraints into seamless, user-centered experiences for global markets.
 
  - [Linkedin Profile](https://linkedin.com/in/meng-hsueh-shen)
  - [GitHub Profile](https://github.com/maudes)
