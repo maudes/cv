@@ -48,8 +48,8 @@
 
 **National ChengChi University (NCCU)**         
 <sub> ***Taipei, Taiwan  |  2008 - 2012*** </sub>   
-- Bachelor of Journalism & Minor in Political Science 
-> Graduation Academic Average: 87.42 / 100; Total Credits Earned: 173
+* Bachelor of Journalism & Minor in Political Science 
+(Graduation Academic Average: 87.42 / 100; Total Credits Earned: 173)
 
 
 ---
