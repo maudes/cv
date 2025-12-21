@@ -42,10 +42,15 @@
 
 ## **EDUCATION**
 
-**National ChengChi University (NCCU)** | *Taipei, Taiwan*
-*Bachelor of Journalism & Minor in Political Science*
-* Focus: Digital Media and Political Communication Strategy.
-* **Cologne Business School** | *Cologne, Germany* (Exchange Program focus in cross-culture strategy)
+**Cologne Business School**         
+<sub> ***Cologne, Germany  |  2012 - 2013*** </sub>   
+* Exchange Program, focusing on Cross-cultural Management and International Strategy.
+
+**National ChengChi University (NCCU)**         
+<sub> ***Taipei, Taiwan  |  2008 - 2012*** </sub>   
+- Bachelor of Journalism & Minor in Political Science 
+> Graduation Academic Average: 87.42 / 100; Total Credits Earned: 173
+
 
 ---
 
