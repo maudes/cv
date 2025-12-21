@@ -7,13 +7,14 @@
 * **Cross-Functional Interface:** Acting as the core platform liaison between R&D, business units, and downstream product teams to synchronize platform capabilities with complex client use cases.
 * **Technical Governance:** Translating industry standards and hardware constraints into actionable technical specifications, ensuring unified platform governance and optimized system performance.
 
-*Key Technologies: Matter, prpl, SoC Strategy (Qualcomm/MTK), Platform Modularization, API Governance.*
+> *Key Technologies: Matter, prpl, SoC Strategy (Qualcomm/MTK), Platform Modularization, API Governance.*
 
 ---
 
 ### **Software Product Manager, [WiZ](https://www.wizconnected.com/en-us) | Signify**         
-<sub> ***Hong Kong   |  Jul 2021 - Sep 2024*** </sub>
-> Directed the Matter protocol strategy and global API ecosystem for WiZ (a [Signify](https://www.signify.com/) brand). Leading a cross-functional R&D team, I manage strategic partnerships with Google and Amazon to enable seamless interoperability and protocol-level roadmaps for 1M+ active smart homes.
+<sub> ***Hong Kong   |  Jul 2021 - Sep 2024*** </sub> 
+<br><br>
+Directed the Matter protocol strategy and global API ecosystem for WiZ (a [Signify](https://www.signify.com/) brand). Leading a cross-functional R&D team, I manage strategic partnerships with Google and Amazon to enable seamless interoperability and protocol-level roadmaps for 1M+ active smart homes.
 
 * **Matter Protocol Ownership:** Defined and owned protocol-level platform decisions for the **[Matter](https://www.theverge.com/2023/4/25/23697537/wiz-smart-bulbs-matter-compatible-apple-home) transition**, successfully rolling out standardized compatibility to **millions of devices** within a single year.
 * **Strategic API Partnerships:** Directed smart home API/OEM initiatives and established deep technical partnerships with **Google Home, Amazon Alexa, and Samsung SmartThings** to align technical roadmaps and ensure hardware/software interoperability.
@@ -22,13 +23,14 @@
 * **Global Delivery Leadership:** Orchestrated cross-regional alignment (Europe, APAC) using a **Hybrid Agile-Waterfall approach** (SAFe framework), enhancing release stability and velocity tracking across the SDLC.
 * **Stakeholder Influence:** Developed high-impact visual flows, technical specifications, and PoC demos to facilitate alignment between firmware engineering, UX design, and executive leadership.
 
-*Key Technologies: Matter Protocol, IoT Ecosystems, API Strategy (Google/Amazon), Interoperability Standards, Cross-regional SDLC.*
+> *Key Technologies: Matter Protocol, IoT Ecosystems, API Strategy (Google/Amazon), Interoperability Standards, Cross-regional SDLC.*
 
 ---
 
 ### **Software Product Manager, GLVictory Technology**         
 <sub> ***Taipei, Taiwan/ Manila, Philippines  |  Feb 2018 - Aug 2020*** </sub>
-> At GLVictory Technology (iGaming, including business units: ICSGame and 33Tech.co), I transitioned from marketing strategy to product discovery and initiation, spanning digital campaigns, web development, sports betting apps, and iGaming SaaS. I managed agile development and Kanban bug resolution to support stakeholders and maintain turnover stability.
+<br><br>
+At GLVictory Technology (iGaming, including business units: ICSGame and 33Tech.co), I transitioned from marketing strategy to product discovery and initiation, spanning digital campaigns, web development, sports betting apps, and iGaming SaaS. I managed agile development and Kanban bug resolution to support stakeholders and maintain turnover stability.
 
 * **0→1 MVP Delivery:** Spearheaded the end-to-end development of an iGaming SaaS platform using the Scrum framework, delivering a validated MVP that improved operational efficiency by **15%**.
 * **Payment & System Integration:** Orchestrated the integration of complex payment gateways and vendor-side APIs, ensuring secure, high-concurrency transaction flows and data integrity.
@@ -36,7 +38,7 @@
 * **Product Revamp & User Growth:** Led the comprehensive overhaul of the sports betting application, optimizing user flows and backend logic to drive measurable revenue growth and user retention.
 * **Data-Driven Roadmap:** Leveraged SQL-based analytics to prioritize product portfolios (Lotteries, Slots), aligning technical development with shifting market trends and business KPIs.
 
-*Key Technologies: SaaS Architecture, Payment Integration, Scrum/Kanban, System Performance Testing, Data Analytics.*
+> *Key Technologies: SaaS Architecture, Payment Integration, Scrum/Kanban, System Performance Testing, Data Analytics.*
 
 ---
 
