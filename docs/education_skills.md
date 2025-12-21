@@ -30,10 +30,13 @@
 
 ## **CERTIFICATIONS**
 
-* **[Relational Database – freeCodeCamp (2025)](...)**: Advanced SQL, Schema Design, and Bash.
-* **[Pandas – Kaggle (2025)](...)**: Data manipulation and NumPy integration.
-* **[Scientific Computing with Python – freeCodeCamp (2021)](...)**: OOP and API integration.
-* **[Google IT Support – Coursera (2021)](...)**: Networking, Security, and System Administration.
+* **Certified in Cybersecurity** (In Progress)
+* **[Relational Database – freeCodeCamp (2025)](https://www.freecodecamp.org/certification/maudes/relational-database-v8)**: Advanced SQL, Schema Design, and Bash.
+* **[Pandas – Kaggle (2025)](https://www.kaggle.com/learn/certification/maudeshen/pandas)**: Data manipulation and NumPy integration.
+* **[Scientific Computing with Python – freeCodeCamp (2021)](https://www.freecodecamp.org/certification/maudes/scientific-computing-with-python-v7)**: OOP and API integration.
+* **[Google IT Support – Coursera (2021)](https://www.coursera.org/account/accomplishments/specialization/certificate/97Y727NB9DJF)**: Networking, Security, and System Administration.
+
+> More to check: [LinkedIn Page](https://www.linkedin.com/in/meng-hsueh-shen/details/certifications/)
 
 ---
 
@@ -42,7 +45,7 @@
 **National ChengChi University (NCCU)** | *Taipei, Taiwan*
 *Bachelor of Journalism & Minor in Political Science*
 * Focus: Digital Media and Political Communication Strategy.
-* **Cologne Business School** | *Cologne, Germany* (Exchange Program)
+* **Cologne Business School** | *Cologne, Germany* (Exchange Program focus in cross-culture strategy)
 
 ---
 
