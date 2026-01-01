@@ -43,11 +43,13 @@
 ## **EDUCATION**
 
 **Cologne Business School**         
-<sub> ***Cologne, Germany  |  2012 - 2013*** </sub>   
+<sub> ***Cologne, Germany  |  2012 - 2013*** </sub>
+
 - Exchange Program, focusing on Cross-cultural Management and International Strategy.
 
 **National ChengChi University (NCCU)**         
 <sub> ***Taipei, Taiwan  |  2008 - 2012*** </sub>   
+
 - Bachelor of Journalism & Minor in Political Science <br>
 (Graduation Academic Average: 87.42 / 100; Total Credits Earned: 173)
 
