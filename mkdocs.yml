@@ -63,11 +63,11 @@ nav:
   - SKILLS & EDUCATION: education_skills.md
   - PORTFOLIO:
       - Overview: portfolio.md
+      - WiZ Global IoT Ecosystem: projects/wiz.md
+      - iGaming Platform: projects/igaming.md
+      - WiZ Local Control Test: projects/wiz_local.md
       - CarePilot Web App: projects/carepilot.md
       - DailyDoes Web App: projects/dailydose.md 
-      - WiZ Local Test Script: projects/wiz_local.md
-      - WiZ Smart light: projects/wiz.md
-      - iGaming: projects/igaming.md
       - SmallSomebody: projects/smallsomebody.md
       - SALASUSU: projects/salasusu.md
 
