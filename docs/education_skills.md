@@ -23,8 +23,8 @@
 ## **AWARDS & HONORS**
 
 * **2024 Q2 Excellence Award (Best Employee)** – Signify WiZ Business Unit
-* **2022 Annual Excellence Award (Best Employee)** – Signify WiZ Business Unit
-    > *Recognized for outstanding contribution to global product rollouts and technical leadership.*
+* **2022 Annual Excellence Award (Best Employee)** – Signify WiZ Business  <br>
+> *Recognized for outstanding contribution to global product rollouts and technical leadership.*
 
 ---
 
@@ -44,11 +44,11 @@
 
 **Cologne Business School**         
 <sub> ***Cologne, Germany  |  2012 - 2013*** </sub>   
-* Exchange Program, focusing on Cross-cultural Management and International Strategy.
+- Exchange Program, focusing on Cross-cultural Management and International Strategy.
 
 **National ChengChi University (NCCU)**         
 <sub> ***Taipei, Taiwan  |  2008 - 2012*** </sub>   
-* Bachelor of Journalism & Minor in Political Science 
+- Bachelor of Journalism & Minor in Political Science <br>
 (Graduation Academic Average: 87.42 / 100; Total Credits Earned: 173)
 
 
@@ -57,5 +57,8 @@
 ## **LANGUAGES & OTHERS**
 
 * **Mandarin:** Native | **English:** Proficient (IELTS 7.5 / TOEFL 95) | **Japanese:** Beginner
-* **Community:** Civic Tech Taiwan Finalist (2025), freeCodeCamp Hackathon (2025), [NetTuesday Speaker](https://nettuesday.tw/slides/2019/03/584) (2019).
+* **Community:** 
+  - Civic Tech Taiwan Finalist (2025)
+  - freeCodeCamp Hackathon (2025)
+  - [NetTuesday Speaker](https://nettuesday.tw/slides/2019/03/584) (2019).
 * **Other:** Certified Emergency Medical Technician (EMT-1) in Taiwan.
