@@ -43,26 +43,27 @@ At GLVictory Technology (iGaming, including business units: ICSGame and 33Tech.c
 ---
 
 ### **Product Marketing Manager, [meet.Jobs](https://meet.jobs/zh-TW)**
-<sub> ***Taipei, Taiwan | Jul 2017 - Dec 2017*** </sub>
+<sub> ***Taipei, Taiwan | Jul 2017 - Dec 2017*** </sub><br>
 * Spearheaded user research to bridge the gap between candidate needs and platform feature implementation.
 * Orchestrated "Speed Interview" events for 20+ global employers, achieving a **10% hiring rate**.
 
 ### **Assistant Community Manager, [Fusionmedium](https://buzzorange.com/techorange/)**
-<sub> ***Taipei, Taiwan | Dec 2013 - Jul 2017*** </sub>
+<sub> ***Taipei, Taiwan | Dec 2013 - Jul 2017*** </sub><br>
 * Drove digital strategy and MAU growth (5%) through data-driven content and social media management.
 * Managed WordPress CMS and executed tech industry events contributing to 10% of annual revenue.
 
 <br>
+---
 
 ## SIDE PROJECTS
 
 ### **Product Manager, [SmallSomebody (小人物)](https://smallsomebody.tw/home)**
-<sub> ***Oct 2018 - Jul 2020 | Taipei, Taiwan*** </sub>
+<sub> ***Oct 2018 - Jul 2020 | Taipei, Taiwan*** </sub><br>
 * Led an open-data initiative to index Taiwan’s NGOs/NPOs based on SDG values, managing a database transition to **Airtable and MySQL** for streamlined content operations.
 * Facilitated UX workshops (Empathy Mapping, Persona Creation) to redefine platform positioning, resulting in **45% growth** in organic social engagement and MAU.
 
 ### **Product Owner, [SALASUSU](https://salasusu.com/)**
-<sub> ***Sep 2016 - Dec 2016 | Siem Reap, Cambodia*** </sub>
+<sub> ***Sep 2016 - Dec 2016 | Siem Reap, Cambodia*** </sub><br>
 * Spearheaded the 0→1 development of a new e-commerce platform for a **Japanese social enterprise** in Cambodia.
 * Defined product specifications, crafted wireframes, and implemented SEO strategies to enhance global online visibility for social impact products.
 <br>

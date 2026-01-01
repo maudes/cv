@@ -58,7 +58,7 @@
 
 * **Mandarin:** Native | **English:** Proficient (IELTS 7.5 / TOEFL 95) | **Japanese:** Beginner
 * **Community:** 
-  - Civic Tech Taiwan Finalist (2025)
-  - freeCodeCamp Hackathon (2025)
-  - [NetTuesday Speaker](https://nettuesday.tw/slides/2019/03/584) (2019).
+    - Civic Tech Taiwan Finalist (2025)
+    - freeCodeCamp Hackathon (2025)
+    - [NetTuesday Speaker](https://nettuesday.tw/slides/2019/03/584) (2019)
 * **Other:** Certified Emergency Medical Technician (EMT-1) in Taiwan.
