@@ -2,7 +2,7 @@
 This is a static site hosting my CV and portfolio.
 
 ## Tech Stack
-- mkdocs + materials ([check fot Materials for MkDocs](https://squidfunk.github.io/mkdocs-material/))
+- Material for MkDocs ([check here for more](https://squidfunk.github.io/mkdocs-material/))
 - CSS to polish a bit on the card design parts
 
 ### File Structure
