@@ -1,0 +1,33 @@
+name: deploy-mkdocs
+on:
+  push:
+    branches:
+      - main 
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 設定為 0 才能獲取 Git 修改時間，這對某些插件有用
+
+      - name: Configure Git Credentials
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: |
+          pip install mkdocs-material
+          # 雖然 material 內建大部份功能，但若未來有額外插件可加在此處
+
+      - name: Deploy to GitHub Pages
+        run: mkdocs gh-deploy --force
