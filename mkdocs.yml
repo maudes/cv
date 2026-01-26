@@ -35,7 +35,7 @@ theme:
     - md_in_html
     - pymdownx.blocks.caption
     - tables
-    - adomination
+    - admonition
 
 
   features:
