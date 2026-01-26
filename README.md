@@ -1,7 +1,5 @@
 # Hello there, this is Maude.
 This is a static site hosting my CV and portfolio.
-#### Link
-> https://maudes.github.io/cv/
 
 ## Tech Stack
 - mkdocs + materials ([check fot Materials for MkDocs](https://squidfunk.github.io/mkdocs-material/))
