@@ -3,11 +3,11 @@ site_name: Maude Shen
 site_description: 沈孟學 Maude Shen
 site_author: Maude Shen
 
-site_url: https://maudes.github.io/
+site_url: https://maudes.github.io/cv
 
 
 # Copyright
-copyright: "&copy; 2025"
+copyright: "&copy; 2026"
 
 plugins:
   - tags
