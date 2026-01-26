@@ -1,4 +1,4 @@
-### **Software Product Line Manager, [General Mobile](https://www.generalmobile.com/) | Fii, Foxconn** <br>
+### **Software Product Line Manager, [General Mobile](https://www.generalmobile.com/) | Foxconn** <br>
 <sub> ***Taipei, Taiwan  |  Nov 2025 - Present*** </sub>
 
 * **Strategic Roadmap Ownership:** Defining the software platform roadmap by synthesizing global market trends and emerging standards (**Matter, prpl, OpenSync**), ensuring long-term scalability across diverse product lines.
