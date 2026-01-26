@@ -14,7 +14,7 @@ description: A showcase of technical prototyping, product leadership, and ecosys
   <div class="card-image">
     <img src="../assets/images/wiz_integration.png" alt="WiZ smart lighting">
     <div class="caption">WiZ Global IoT Ecosystem</div>
-    <div class="tags">#matter_protocol #global_partnership #iot</div>
+    <div class="tags">#matter #global_partnership #iot</div>
   </div>
 </a>
 
@@ -37,7 +37,7 @@ description: A showcase of technical prototyping, product leadership, and ecosys
   <div class="card-image">
     <img src="../assets/images/wiz_smart_lighting.png" alt="WiZ smart lighting">
     <div class="caption">WiZ Local Control Test (CLI)</div>
-    <div class="tags">#python #iot #protocol_test #automation</div>
+    <div class="tags">#python #protocol_test #automation</div>
   </div>
 </a>
 
