@@ -22,10 +22,14 @@ theme:
     code: Roboto Mono
   palette:
     - scheme: default
+      primary: deep orange
+      accent: orange
       toggle:
         icon: material/lightbulb
         name: Switch to dark mode
     - scheme: slate
+      primary: deep orange
+      accent: amber
       toggle:
         icon: material/lightbulb-outline
         name: Switch to light mode
