@@ -1,13 +1,13 @@
-### **Software Product Line Manager, [General Mobile](https://www.generalmobile.com/) | Foxconn** <br>
+### **Software Product Manager, [General Mobile](https://www.generalmobile.com/) | Fii, Foxconn** <br>
 <sub> ***Taipei, Taiwan  |  Nov 2025 - Present*** </sub>
 
-* **Strategic Roadmap Ownership:** Defining the software platform roadmap by synthesizing global market trends and emerging standards (**Matter, prpl, OpenSync**), ensuring long-term scalability across diverse product lines.
-* **Upstream SoC Integration:** Managing strategic technical partnerships with tier-1 chipset vendors, including **Qualcomm**,and **MediaTek**, to align hardware roadmaps with platform software requirements.
-* **Platform Standardization:** Spearheading the modularization of software components to enable high reusability across global ODM/OEM projects, significantly reducing development lead time for derivative products.
-* **Cross-Functional Interface:** Acting as the core platform liaison between R&D, business units, and downstream product teams to synchronize platform capabilities with complex client use cases.
-* **Technical Governance:** Translating industry standards and hardware constraints into actionable technical specifications, ensuring unified platform governance and optimized system performance.
+* **Platform Roadmap Contribution:** Shaped platform roadmap discussions by evaluating emerging ecosystem standards (Matter, prpl, OpenSync) and assessing their impact on future broadband and IoT product development.
+* **SoC Ecosystem Alignment:** Worked closely with chipset vendors including Qualcomm and MediaTek by reviewing technical documentation and aligning platform software capabilities with SoC architectures.
+* **Platform Reusability Initiatives:** Drove efforts to improve modularity of software components, enabling higher reuse across ODM/OEM projects and reducing development overhead for derivative products.
+* **Cross-Functional Platform Coordination:** Acted as a key interface between R&D, product teams, and business stakeholders to align platform capabilities with diverse global product requirements.
+* **Industry Standards Engagement:** Participated in prpl working groups and reviewed ecosystem specifications (including RDK-B related materials) to inform platform architecture and maintain alignment with evolving broadband standards.
 
-> *Key Technologies: Matter, prpl, SoC Strategy (Qualcomm/MTK), Platform Modularization, API Governance.*
+> *Key Technologies: Matter, prpl, OpenSync, Broadband Platforms, Qualcomm / MediaTek SoC Ecosystem.*
 
 ---
 
