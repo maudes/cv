@@ -61,6 +61,10 @@ extra:
     - icon: fontawesome/brands/medium
       link: https://medium.com/@maudeshen
 
+  analytics:
+    provider: google
+    property: G-VMPJPX43P9
+
 nav:
   - ABOUT ME: index.md
   - EXPERIENCE: experience.md
