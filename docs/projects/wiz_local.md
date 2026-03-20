@@ -79,4 +79,8 @@ The tool follows a modular architecture for maintainability and extensibility:
 
 **GitHub Repository**: [Local Control Test Script for WiZ Lights](https://github.com/maudes/wiz-light-local-test-script)
 
+
+<div style="text-align: center;">
+  <img src="../assets/images/WiZ local test UI.png" alt="WiZ local test UI" width="450">
+</div>
 <br>
