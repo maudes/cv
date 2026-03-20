@@ -43,7 +43,7 @@ description: A showcase of technical prototyping, product leadership, and ecosys
 
 <a href="/cv/projects/carepilot/" class="card-link">
   <div class="card-image">
-    <img src="../assets/images/CarePilot_dashboard.png" alt="CarePilot Dashboard">
+    <img src="../assets/images/CarePilot_cover.png" alt="CarePilot Dashboard">
     <div class="caption">CarePilot (PoC Web App)</div>
     <div class="tags">#python #fastapi #system_architecture</div>
   </div>
@@ -51,7 +51,7 @@ description: A showcase of technical prototyping, product leadership, and ecosys
 
 <a href="/cv/projects/joblens/" class="card-link">
   <div class="card-image">
-    <img src="../assets/images/joblens_UI.png" alt="JobLens UI">
+    <img src="../assets/images/joblens_cover.png" alt="JobLens UI">
     <div class="caption">JobLens AI Assistant</div>
     <div class="tags">#python #fastapi #llm #automation</div>
   </div>
