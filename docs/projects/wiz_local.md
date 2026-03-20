@@ -81,6 +81,6 @@ The tool follows a modular architecture for maintainability and extensibility:
 
 
 <div style="text-align: center;">
-  <img src="../assets/images/WiZ local test UI.png" alt="WiZ local test UI" width="450">
+  <img src="/cv/assets/images/WiZ local test UI.png" alt="WiZ local test UI" width="450">
 </div>
 <br>
