@@ -1,7 +1,7 @@
 ### **Software Product Manager, [General Mobile](https://www.generalmobile.com/) | Fii, Foxconn** <br>
 <sub> ***Taipei, Taiwan  |  Nov 2025 - Present*** </sub>
 
-> Own product coordination and integration across IoT broadband and CPE ecosystems, working with chipset vendors, ISPs, and internal engineering teams.
+Own product coordination and integration across IoT broadband and CPE ecosystems, working with chipset vendors, ISPs, and internal engineering teams.
 
 * **Platform Roadmap Contribution:** Shaped platform roadmap discussions by evaluating emerging ecosystem standards (Matter, prpl, OpenSync) and assessing their impact on future broadband and IoT product development.
 * **SoC Ecosystem Alignment:** Worked closely with chipset vendors including Qualcomm and MediaTek by reviewing technical documentation and aligning platform software capabilities with SoC architectures.
@@ -19,13 +19,13 @@
 Directed the Matter protocol strategy and global API ecosystem for WiZ (a [Signify](https://www.signify.com/) brand). Leading a cross-functional R&D team, I manage strategic partnerships with Google and Amazon to enable seamless interoperability and protocol-level roadmaps for 1M+ active smart homes.
 
 * **Matter Protocol Ownership:** Defined and owned protocol-level platform decisions for the **[Matter](https://www.theverge.com/2023/4/25/23697537/wiz-smart-bulbs-matter-compatible-apple-home) transition**, successfully rolling out standardized compatibility to **millions of devices** within a single year.
-* **Strategic API Partnerships:** Directed smart home API/OEM initiatives and established deep technical partnerships with **Google Home, Amazon Alexa, and Samsung SmartThings** to align technical roadmaps and ensure hardware/software interoperability.
+* **Strategic API Partnerships:** Directed smart home API/OEM initiatives and established deep technical partnerships with **Google Home, Amazon Alexa (FFS), Apple Home, and Samsung SmartThings** to align technical roadmaps and ensure hardware/software interoperability.
 * **Complex System Architecture:** Navigated technical trade-offs between legacy system constraints and emerging protocol standards, balancing scalability, low-latency performance, and partner constraints.
 * **Compliance & Governance:** Translated global requirements (e.g., **GDPR**) into standardized platform constraints and technical documentation, streamlining partner onboarding and production tooling efficiency.
 * **Global Delivery Leadership:** Orchestrated cross-regional alignment (Europe, APAC) using a **Hybrid Agile-Waterfall approach** (SAFe framework), enhancing release stability and velocity tracking across the SDLC.
 * **Stakeholder Influence:** Developed high-impact visual flows, technical specifications, and PoC demos to facilitate alignment between firmware engineering, UX design, and executive leadership.
 
-> *Key Technologies: Matter Protocol, IoT Ecosystems, API Strategy (Google/Amazon), Interoperability Standards, Cross-regional SDLC.*
+> *Key Technologies: Matter Protocol, IoT Ecosystems, API Strategy (Google/Amazon), Interoperability Standards, GDPR, Cross-regional SDLC.*
 
 ---
 
@@ -60,7 +60,7 @@ At GLVictory Technology (iGaming, including business units: ICSGame and 33Tech.c
 
 ## SIDE PROJECTS
 
-### **Product Builder, [Joblens AI Assistant](https://github.com/maudes/job-hunt-ai)**
+### **Product Builder, Joblens AI Assistant**
 <sub> ***Mar 2026 – Present*** </sub><br>
 
 * Building an AI-powered tool that analyzes job descriptions to identify skill gaps and recommend personalized learning paths.
@@ -68,13 +68,13 @@ At GLVictory Technology (iGaming, including business units: ICSGame and 33Tech.c
 * Focused on improving job search efficiency through data-driven career insights and automation.
 
 ### **Solo Developer, WiZ Local Test Tool**
-<sub> *** Mar 2024 – Aug 2025 | Hong Kong/ Taipei*** </sub><br>
+<sub> ***Mar 2024 – Aug 2025 | Hong Kong/ Taipei*** </sub><br>
 
 * Developed an internal testing tool to automate IoT device validation workflows.
 * Combined CLI and GUI interfaces to improve usability for engineering and QA teams.
 * Reduced manual testing overhead and improved testing consistency and efficiency.
 
-### **Product Manager, [SmallSomebody (小人物)](https://smallsomebody.tw/home)**
+### **Product Manager, SmallSomebody (小人物)**
 <sub> ***Oct 2018 - Jul 2020 | Taipei, Taiwan*** </sub><br>
 
 * Led an open-data initiative to index Taiwan’s NGOs/NPOs based on SDG values, managing a database transition to **Airtable and MySQL** for streamlined content operations.
