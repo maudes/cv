@@ -1,6 +1,8 @@
 ### **Software Product Manager, [General Mobile](https://www.generalmobile.com/) | Fii, Foxconn** <br>
 <sub> ***Taipei, Taiwan  |  Nov 2025 - Present*** </sub>
 
+> Own product coordination and integration across IoT broadband and CPE ecosystems, working with chipset vendors, ISPs, and internal engineering teams.
+
 * **Platform Roadmap Contribution:** Shaped platform roadmap discussions by evaluating emerging ecosystem standards (Matter, prpl, OpenSync) and assessing their impact on future broadband and IoT product development.
 * **SoC Ecosystem Alignment:** Worked closely with chipset vendors including Qualcomm and MediaTek by reviewing technical documentation and aligning platform software capabilities with SoC architectures.
 * **Platform Reusability Initiatives:** Drove efforts to improve modularity of software components, enabling higher reuse across ODM/OEM projects and reducing development overhead for derivative products.
@@ -30,7 +32,7 @@ Directed the Matter protocol strategy and global API ecosystem for WiZ (a [Signi
 ### **Software Product Manager, GLVictory Technology**         
 <sub> ***Taipei, Taiwan/ Manila, Philippines  |  Feb 2018 - Aug 2020*** </sub>
 <br><br>
-At GLVictory Technology (iGaming, including business units: ICSGame and 33Tech.co), I transitioned from marketing strategy to product discovery and initiation, spanning digital campaigns, web development, sports betting apps, and iGaming SaaS. I managed agile development and Kanban bug resolution to support stakeholders and maintain turnover stability.
+At GLVictory Technology (iGaming, including business units: ICSGame and 33Tech.co), I transitioned from marketing strategy to product discovery and initiation, spanning digital campaigns, web development, sports betting apps, and iGaming SaaS. I managed agile development and Kanban bug resolution to support stakeholders and maintain turnover stability. 
 
 * **0→1 MVP Delivery:** Spearheaded the end-to-end development of an iGaming SaaS platform using the Scrum framework, delivering a validated MVP that improved operational efficiency by **15%**.
 * **Payment & System Integration:** Orchestrated the integration of complex payment gateways and vendor-side APIs, ensuring secure, high-concurrency transaction flows and data integrity.
@@ -57,6 +59,20 @@ At GLVictory Technology (iGaming, including business units: ICSGame and 33Tech.c
 ---
 
 ## SIDE PROJECTS
+
+### **Product Builder, [Joblens AI Assistant](https://github.com/maudes/job-hunt-ai)**
+<sub> ***Mar 2026 – Present*** </sub><br>
+
+* Building an AI-powered tool that analyzes job descriptions to identify skill gaps and recommend personalized learning paths.
+* Designed system to match user profiles with roles using LLM-based semantic analysis.
+* Focused on improving job search efficiency through data-driven career insights and automation.
+
+### **Solo Developer, WiZ Local Test Tool**
+<sub> *** Mar 2024 – Aug 2025 | Hong Kong/ Taipei*** </sub><br>
+
+* Developed an internal testing tool to automate IoT device validation workflows.
+* Combined CLI and GUI interfaces to improve usability for engineering and QA teams.
+* Reduced manual testing overhead and improved testing consistency and efficiency.
 
 ### **Product Manager, [SmallSomebody (小人物)](https://smallsomebody.tw/home)**
 <sub> ***Oct 2018 - Jul 2020 | Taipei, Taiwan*** </sub><br>
