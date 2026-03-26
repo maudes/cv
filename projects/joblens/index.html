@@ -609,7 +609,18 @@
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Role &amp; Scope">
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#product-thinking-strategy-pm-perspective" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Product Thinking &amp; Strategy (PM Perspective)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Product Thinking &amp; Strategy (PM Perspective)">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -830,7 +841,18 @@
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Role &amp; Scope">
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#product-thinking-strategy-pm-perspective" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Product Thinking &amp; Strategy (PM Perspective)
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Product Thinking &amp; Strategy (PM Perspective)">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -967,10 +989,18 @@
 <blockquote>
 <p>JobLens — LLM-Powered Job Fit Analysis &amp; Application Tracker</p>
 </blockquote>
+<p>"As a job seeker, I found myself trapped in a loop of 'Tab-Hell': switching between LinkedIn, company career pages, my CV, and a messy tracking spreadsheet."</p>
+<p>I've been using Google Sheets as my "Job Hunting" dashboard for a long time. The process was repetitive: search, copy-paste, summarize, and manually evaluate fit. It wasn't just boring; it was cognitively draining. Following the DRY (Don't Repeat Yourself) principle, I built JobLens to reclaim my time and focus on what matters—interviewing.</p>
 <p>JobLens is a solo-developed automation tool that eliminates the manual grind of job hunting. It scrapes job descriptions directly from ATS platforms, runs a deep LLM-powered comparison against your CV, surfaces match points and gaps, and syncs everything to a Google Sheet for pipeline tracking. Beyond personal utility, the project serves as a technical sandbox for exploring prompt engineering, multi-source web scraping, and LLM-integrated workflow automation.</p>
 <hr />
 <h2 id="role-scope">Role &amp; Scope</h2>
-<p>Sole developer and product owner of the project. Led the full lifecycle from problem identification and system design to implementation, prompt iteration, and deployment. The project was designed to validate how LLM reasoning can be embedded into a structured product workflow — not just as a chatbot, but as a decision-support layer in a real automation pipeline.</p>
+<p>As the Sole PM &amp; Dev, I prioritized features based on the highest friction points in the job hunting funnel. Led the full lifecycle from problem identification and system design to implementation, prompt iteration, and deployment. The project was designed to validate how LLM reasoning can be embedded into a structured product workflow — not just as a chatbot, but as a decision-support layer in a real automation pipeline. </p>
+<h2 id="product-thinking-strategy-pm-perspective">Product Thinking &amp; Strategy (PM Perspective)</h2>
+<ul>
+<li><strong>Problem Statement</strong>: Manual JD-CV alignment is low-value high-effort work.</li>
+<li><strong>Success Metrics</strong>: Reduced the time-to-track from 10 minutes per job to &lt;30 seconds.</li>
+<li><strong>Target Audience</strong>: Mid-to-senior tech professionals applying to top-tier ATS platforms (Ashby/Greenhouse).</li>
+</ul>
 <hr />
 <h3 id="tech-stack">Tech Stack</h3>
 <table>
@@ -1013,7 +1043,8 @@
 <li><strong>Multi-ATS Scraping</strong>: Built platform-specific parsers for five major ATS providers with Jina Reader as a universal fallback, handling structural inconsistencies across job board HTML</li>
 <li><strong>Prompt Versioning &amp; Tuning</strong>: Maintained a versioned <code>analyzer_prompt.md</code> to track LLM behaviour changes across iterations — applying product iteration discipline to AI prompt design</li>
 <li><strong>Structured LLM Output</strong>: Engineered prompts to return consistent, parseable analysis (match points, gaps, improvement suggestions) rather than freeform text, enabling downstream Google Sheets sync</li>
-<li><strong>Test Coverage</strong>: Separated unit tests (mocked, fast, always run) from integration tests (real network, run manually) to keep CI reliable without sacrificing coverage depth</li>
+<li><strong>Mitigating AI Hallucination</strong>: Implementing strict extraction rules to ensure the analysis is grounded in reality.</li>
+<li><strong>The "Human-in-the-loop" Workflow</strong>: How I built an evaluation set to benchmark AI responses against my manual reviews.</li>
 </ul>
 <hr />
 <h2 id="software-development-lifecycle">Software Development Lifecycle</h2>
