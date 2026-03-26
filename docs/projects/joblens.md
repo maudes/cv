@@ -12,13 +12,22 @@ description: JobLens is an AI-powered job hunt assistant that extracts, analyzes
 
 > JobLens — LLM-Powered Job Fit Analysis & Application Tracker
 
+"As a job seeker, I found myself trapped in a loop of 'Tab-Hell': switching between LinkedIn, company career pages, my CV, and a messy tracking spreadsheet."
+
+I've been using Google Sheets as my "Job Hunting" dashboard for a long time. The process was repetitive: search, copy-paste, summarize, and manually evaluate fit. It wasn't just boring; it was cognitively draining. Following the DRY (Don't Repeat Yourself) principle, I built JobLens to reclaim my time and focus on what matters—interviewing.
+
 JobLens is a solo-developed automation tool that eliminates the manual grind of job hunting. It scrapes job descriptions directly from ATS platforms, runs a deep LLM-powered comparison against your CV, surfaces match points and gaps, and syncs everything to a Google Sheet for pipeline tracking. Beyond personal utility, the project serves as a technical sandbox for exploring prompt engineering, multi-source web scraping, and LLM-integrated workflow automation.
 
 ---
 
 ## Role & Scope
 
-Sole developer and product owner of the project. Led the full lifecycle from problem identification and system design to implementation, prompt iteration, and deployment. The project was designed to validate how LLM reasoning can be embedded into a structured product workflow — not just as a chatbot, but as a decision-support layer in a real automation pipeline.
+As the Sole PM & Dev, I prioritized features based on the highest friction points in the job hunting funnel. Led the full lifecycle from problem identification and system design to implementation, prompt iteration, and deployment. The project was designed to validate how LLM reasoning can be embedded into a structured product workflow — not just as a chatbot, but as a decision-support layer in a real automation pipeline. 
+
+## Product Thinking & Strategy (PM Perspective)
+- **Problem Statement**: Manual JD-CV alignment is low-value high-effort work.
+- **Success Metrics**: Reduced the time-to-track from 10 minutes per job to <30 seconds.
+- **Target Audience**: Mid-to-senior tech professionals applying to top-tier ATS platforms (Ashby/Greenhouse).
 
 ---
 
@@ -40,7 +49,8 @@ Sole developer and product owner of the project. Led the full lifecycle from pro
 - **Multi-ATS Scraping**: Built platform-specific parsers for five major ATS providers with Jina Reader as a universal fallback, handling structural inconsistencies across job board HTML
 - **Prompt Versioning & Tuning**: Maintained a versioned `analyzer_prompt.md` to track LLM behaviour changes across iterations — applying product iteration discipline to AI prompt design
 - **Structured LLM Output**: Engineered prompts to return consistent, parseable analysis (match points, gaps, improvement suggestions) rather than freeform text, enabling downstream Google Sheets sync
-- **Test Coverage**: Separated unit tests (mocked, fast, always run) from integration tests (real network, run manually) to keep CI reliable without sacrificing coverage depth
+- **Mitigating AI Hallucination**: Implementing strict extraction rules to ensure the analysis is grounded in reality.
+- **The "Human-in-the-loop" Workflow**: How I built an evaluation set to benchmark AI responses against my manual reviews.
 
 ---
 

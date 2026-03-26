@@ -11,13 +11,20 @@ description: CarePilot is a personal project designed to help users record and t
 
 > CarePilot — Personal Health Tracker & Backend Sandbox
 
-CarePilot is a solo-developed web application for recording and tracking personal health data over time. It supports metric input, goal setting, trend visualization, and data export. Beyond its practical use, the project serves as a technical sandbox for exploring backend architecture, authentication flows, and health data standards such as FHIR.
+"Bridging the gap between the ambulance frontline and personal health data standards."
+
+This year, I earned my Emergency Medical Technician (EMT-1) certification in Taiwan. On the frontline, I witnessed first-hand how fragmented health information can hinder critical care. This experience sparked my interest in MedTech, leading me to join the OHDSI community and compete in the Civic Tech Taiwan competition (MODA × Taoyuan City Gov't; 2025), where my team was honored as a Finalist.
+
+While the competition exposed the systemic obstacles in medical data exchange, it also inspired me to tackle the problem from the individual's perspective. I developed CarePilot — a personal health tracking dashboard — as a functional extension of these insights.
+
+CarePilot is more than just a tracking app; it is a **technical sandbox** where I explore the intersection of backend architecture and the **HL7 FHIR** standard. As the sole developer and PM, I focused on building a system that doesn't just record numbers, but structures them for future medical interoperability.
 
 ---
 
 ## Role & Scope  
-Sole developer and product owner of the project. Led the full lifecycle from architecture design and feature implementation to testing, deployment, and roadmap planning. The project was designed to validate backend patterns and health data interoperability in a modular, extensible environment.
+I led the full lifecycle from architecture to deployment, validating backend patterns and FHIR interoperability.
 
+My core strategy was a "Local-first" philosophy. By building a self-hosted, lightweight dashboard similar to Home Assistant, CarePilot prioritizes Data Sovereignty. This addresses the market gap between convenient tracking and absolute data privacy, ensuring sensitive metrics remain under the user's direct control.
 ---
 
 ### Tech Stack  
