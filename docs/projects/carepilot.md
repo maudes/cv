@@ -11,9 +11,9 @@ description: CarePilot is a personal project designed to help users record and t
 
 > CarePilot — Personal Health Tracker & Backend Sandbox
 
-"Bridging the gap between the ambulance frontline and personal health data standards."
+In 2025, I earned my Emergency Medical Technician (EMT-1) certification in Taiwan. On the frontline, I witnessed first-hand how fragmented health information can hinder critical care. This experience sparked my interest in MedTech, leading me to join the OHDSI community and compete in the Civic Tech Taiwan competition (MODA × Taoyuan City Gov't; 2025), where my team was honored as a Finalist.
 
-This year, I earned my Emergency Medical Technician (EMT-1) certification in Taiwan. On the frontline, I witnessed first-hand how fragmented health information can hinder critical care. This experience sparked my interest in MedTech, leading me to join the OHDSI community and compete in the Civic Tech Taiwan competition (MODA × Taoyuan City Gov't; 2025), where my team was honored as a Finalist.
+> "Bridging the gap between the ambulance frontline and personal health data standards."
 
 While the competition exposed the systemic obstacles in medical data exchange, it also inspired me to tackle the problem from the individual's perspective. I developed CarePilot — a personal health tracking dashboard — as a functional extension of these insights.
 
@@ -25,6 +25,7 @@ CarePilot is more than just a tracking app; it is a **technical sandbox** where 
 I led the full lifecycle from architecture to deployment, validating backend patterns and FHIR interoperability.
 
 My core strategy was a "Local-first" philosophy. By building a self-hosted, lightweight dashboard similar to Home Assistant, CarePilot prioritizes Data Sovereignty. This addresses the market gap between convenient tracking and absolute data privacy, ensuring sensitive metrics remain under the user's direct control.
+
 ---
 
 ### Tech Stack  
