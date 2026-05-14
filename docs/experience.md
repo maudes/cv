@@ -18,6 +18,7 @@ Founded an AI-driven, FHIR-standardized platform to streamline hospital interven
 * Evaluated competing data standards (OHDSI/OMOP vs. FHIR), selecting FHIR as the core architecture to support real-time workflows and seamless data interoperability.
 
 > *Key Technologies: FHIR, Clinical Data Standards, AI Integration, Healthcare Interoperability.*
+
 ---
 
 ### **Software Product Manager, [WiZ](https://www.wizconnected.com/en-us) | Signify (previously Philips Lighting)**         
