@@ -13,6 +13,14 @@ description: Led the integration and platform stability, UX performance of WiZ s
 
 Led the adoption of Matter, a new smart home protocol, across WiZ’s ecosystem of over one million devices. The initiative aimed to launch Matter-enabled products within a one-year timeline, aligned with the official protocol release. With no prior team experience in Matter, I developed a comprehensive strategy leveraging internal and external resources to ensure successful integration and certification.
 
+### Why Matter with WiZ?
+WiZ has long invested in direct API integrations with Google, Alexa, SmartThings, and other major platforms. But with roughly half of our users on iPhone, we consistently heard from the market, customers, and our own sales teams that Apple Home support was a critical gap. Matter is our opportunity to close it — and to go further.
+
+By adopting Matter, WiZ gains a single path to interoperability across all major smart home ecosystems, both today's and tomorrow's. It also positions us to support FFS (Fustration-Free Setup) and unlocks new business opportunities with partners who require open-standard compatibility.
+
+### Trade-offs
+Shipping on time required focused prioritization. We made a deliberate decision to concentrate on WiZ-centric behavior design and defer certain improvements. For example, our indirect factory reset flow via app. This came with a cost that we received feedback from some partners and users. But it was the right call to protect our delivery timeline and maintain momentum.
+
 ---
 
 ## Team Composition & My Role  
