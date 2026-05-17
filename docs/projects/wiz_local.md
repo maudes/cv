@@ -11,12 +11,17 @@ description: Developed a tool for anyone who'd like to test local control with t
 
 > WiZ Local Control Test Script — UDP-Based Smart Lighting Validation Tool
 
-As a Product Manager for WiZ's API services, I managed the end-to-end integration of smart lighting solutions, covering both cloud and local control protocols. My responsibilities included providing technical support to external partners, defining feature requirements, and facilitating integration processes. A recurring challenge during PoC (Proof-of-Concept) and partner validation was the absence of a lightweight, reliable tool for testing local command protocols, especially for developers aiming to build pure local controllers.
+As the Product Manager for WiZ's API services, I managed the end-to-end integration of smart lighting solutions across cloud and local control protocols. During partner validation, external developers lacked a lightweight, reliable tool to test local command protocols for pure local controllers. Concurrently, regional sales teams needed a zero-cloud solution to power live demos—such as a Chinese customer deploying setups across hundreds of nationwide showrooms, US roadshows, and EU retail shops.
 
-To address this critical gap, I independently designed and developed the WiZ Light Local Test Script. This Python-based CLI utility enables UDP-based local communication to validate local control protocols for WiZ smart lighting devices.
+Because official engineering resources were constrained, this high-impact utility could not be prioritized on the main roadmap. Recognizing its strategic value, I independently designed and developed this Python-based CLI utility to enable UDP-based local communication and validate WiZ smart lighting protocols.
 
+**Note:** Originally built as an internal tool to unblock partners and regional sales teams, I have post-employment expanded and modularized the project for broader, open-source maintainability.
 
-**Note:** This project was developed for personal use during my tenure at WiZ and was not formally shared externally. Post-employment, I expanded and modularized it for broader applicability and maintainability.
+### Why the tool?
+External API partners were stalled during PoC due to a lack of local testing environments, while regional sales pipelines,especially EU retail channels, were losing momentum without a stable demo tool that could survive poor in-store networks. With corporate engineering tied up, stepping in as a solo developer to build a lightweight, functional prototype was the fastest way to validate the protocol for partners and deliver an immediate stopgap for high-stakes commercial deployments.
+
+### Trade-offs
+Regional requests initially leaned toward a complex, feature-rich hardware config board, but this was slow to build and ill-suited for unstable retail environments. I chose to prioritize a software-only, "pro-EU" design instead. This allowed us to leverage existing factory tools rather than building hardware from scratch, directly securing the EU sales pipeline. Because the resulting Python tool was lightweight and portable, it easily scaled to meet the basic operational needs of both the US roadshows and the massive Chinese showroom rollout with zero extra development cost.
 
 ---
 

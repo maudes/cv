@@ -19,7 +19,7 @@ WiZ has long invested in direct API integrations with Google, Alexa, SmartThings
 By adopting Matter, WiZ gains a single path to interoperability across all major smart home ecosystems, both today's and tomorrow's. It also positions us to support FFS (Fustration-Free Setup) and unlocks new business opportunities with partners who require open-standard compatibility.
 
 ### Trade-offs
-Shipping on time required focused prioritization. We made a deliberate decision to concentrate on WiZ-centric behavior design and defer certain improvements. For example, our indirect factory reset flow via app. This came with a cost that we received feedback from some partners and users. But it was the right call to protect our delivery timeline and maintain momentum.
+Shipping on time required focused prioritization. I made a deliberate decision to concentrate on WiZ-centric behavior design and defer certain improvements. For example, our indirect factory reset flow via app. This came with a cost that we received complaints from some partners and users. But it was the right call to protect our delivery timeline and maintain momentum at the time.
 
 ---
 
