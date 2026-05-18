@@ -26,7 +26,9 @@ Regional requests initially leaned toward a complex, feature-rich hardware confi
 ---
 
 ## Role & Scope  
-Sole developer and product owner of the project. Led the full lifecycle from problem identification and technical design to implementation, testing, and post-employment refactoring.
+As the sole developer and product owner, I drove the full product lifecycle from identifying the initial market friction to technical design, implementation, and post-employment refactoring. 
+
+To keep the utility lightweight and focused, I deliberately scoped out the OTA firmware update module. Since the script was designed to integrate seamlessly into existing ecosystems, teams could simply reuse WiZ's production-ready factory OTA module depending on the deployment use case.
 
 ---
 
