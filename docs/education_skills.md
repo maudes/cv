@@ -4,6 +4,14 @@
 * **Product Strategy & Methodology:** Roadmap Prioritization, GTM Strategy, Stakeholder Management, Agile/Scrum/Kanban/Waterfall, SAFe, SDLC
 * **Technical Literacy:** Python (FastAPI, pandas), SQL, Bash scripting, Git, AWS, GCP, LLM integration (Claude, Gemini), n8n workflow automation
 
+### **IoT & Connectivity Standards**
+* **Protocols:** Matter, Thread, Wi-Fi 7/8, Zigbee, BLE, OpenSync, RDK-B, prpl
+* **Ecosystems:** Google Home, Amazon Alexa, Apple Home, SmartThings, Xiaomi Mijia, Amazon FFS, CSA
+
+### **Regulatory & Compliance Awareness**
+* **Active:** Wi-Fi 7 and BBF.247 certification processes (in progress, General Mobile); EU Accessibility Act (EAA) UI compliance auditing
+* **Training:** CE Marking, Cyber Resilience Act (CRA), EU AI Act (foundations) — internal regulatory training, Foxconn
+
 ### **Product Discovery & Analytics**
 * **Insights:** User Research, Empathy Mapping, and Data-driven roadmap prioritization
 * **Measurement:** Google Analytics, Search Console, Metabase
@@ -35,12 +43,12 @@
 ## **EDUCATION**
 
 **Cologne Business School**         
-<sub> ***Cologne, Germany  |  2012 - 2013*** </sub>
+<sub> ***Cologne, Germany*** </sub>
 
-- Exchange Program, focusing on Cross-cultural Management and International Strategy.
+- Exchange Program, focusing on Cross-cultural Management, International Strategy and Entrepreneurship, EU market exposure
 
 **National ChengChi University (NCCU)**         
-<sub> ***Taipei, Taiwan  |  2008 - 2012*** </sub>   
+<sub> ***Taipei, Taiwan*** </sub>   
 
 - Bachelor of Journalism & Minor in Political Science <br>
 (Graduation Academic Average: 87.42 / 100; Total Credits Earned: 173)
