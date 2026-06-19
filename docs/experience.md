@@ -11,11 +11,17 @@
 
 ---
 ### **Founder & Product Lead, LightOn**
-<sub> ***Taipei, Taiwan  |  Nov 2024 - Oct 2025*** </sub>
- 
-Founded an AI-driven, FHIR-standardized platform to streamline hospital intervention services. Reached Finalist at Civic Tech Taiwan (Ministry of Digital Affairs).
- 
-* Evaluated competing data standards (OHDSI/OMOP vs. FHIR), selecting FHIR as the core architecture to support real-time workflows and seamless data interoperability.
+<sub> ***Remote |  Nov 2024 - Oct 2025*** </sub>
+
+Self-directed sabbatical to reskill in AI/data and validate a founder path. Completed FreeCodeCamp certifications in relational databases and Python; explored LLM/RAG applications hands-on.
+
+- Recruited and led a 4-person cross-functional team to build an AI-driven, 
+  FHIR-standardized hospital intervention platform, reaching Finalist at 
+  Civic Tech Taiwan (Ministry of Digital Affairs).
+- Evaluated OHDSI/OMOP vs. FHIR data standards, selecting FHIR to support 
+  real-time clinical workflows and system interoperability.
+- Earned EMT-1 certification, applying frontline healthcare context directly 
+  to product and data-architecture decisions.
 
 > *Key Technologies: FHIR, Clinical Data Standards, AI Integration, Healthcare Interoperability.*
 
@@ -26,7 +32,7 @@ Founded an AI-driven, FHIR-standardized platform to streamline hospital interven
 <br><br>
 
 * **Matter Protocol Ownership:** Architected a from-scratch dual-stack [Matter](https://www.theverge.com/2023/4/25/23697537/wiz-smart-bulbs-matter-compatible-apple-home) co-existence strategy, aligning development and manufacturing to ship end-to-end compatibility with 5+ Tier 1 partners, including Apple Home, within 12 months. 
-* **Global NPI & SKU Management:** Streamlined NPI processes to support global Matter rollout across multi-brand portfolios, managing 1,000+ SKUs and 2M+ devices. Earned the Top Certifier title in the CSA (2022).
+* **Global NPI & SKU Management:** Streamlined NPI processes to enable global Matter rollout for multi-brand portfolios, managing 5,00+ SKUs and 1M+ devices while securing the Top Certifier title in the CSA (2022/2023).
 * **Strategic API Partnerships:** Directed API product and third-party integrations with Google Home, Amazon Alexa, Apple Home, Xiaomi Mijia, and Samsung SmartThings, enabling 1M+ devices to operate seamlessly across platforms.
 * **Amazon FFS Launch:** Enabled WiZ's first Amazon Black Friday campaign partnership in core markets by deploying Frustration Free Setup (FFS) infrastructure within WiZ production lines.
 * **Mobile Platform Ownership:** Owned iOS/Android platform flows including device onboarding, GDPR consent, and ecosystem integration UX, translating global compliance requirements into standardized platform constraints.
