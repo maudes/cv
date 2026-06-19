@@ -6,6 +6,7 @@
 * **Cross-Functional Roadmap Orchestration:** Coordinate roadmaps across ISP clients, chip vendors, and internal R&D teams, bridging technical constraints with business requirements to maintain delivery velocity.
 * **AI-Driven Process Automation:** Automated RFQ workflows and technical spec-fitting analysis using Claude AI, reducing manual processing time by 33% and improving bid response turnaround.
 * **Industry Standards Engagement:** Participate in prpl working groups and review ecosystem specifications (including RDK-B) to inform platform architecture and maintain alignment with evolving broadband standards.
+* **Regulatory Compliance Leadership:** Driving Wi-Fi 7 and BBF.247 certification processes for CPE platforms; auditing internal UI against EU Accessibility Act (EAA) requirements ahead of 2026 enforcement.
 
 > *Key Technologies: Matter, prpl, OpenSync, Broadband Platforms, Qualcomm / MediaTek SoC Ecosystem, Claude AI.*
 
@@ -16,7 +17,7 @@
 EMT-1 certified (Feb, 2025) to validate hands-on interest in healthcare delivery; applied that domain knowledge to found an AI-driven, FHIR-standardized platform for hospital intervention workflows.
 
 - Recruited and led a 4-person cross-functional team to build an AI-driven, FHIR-standardized hospital intervention platform, reaching Finalist at Civic Tech Taiwan (Ministry of Digital Affairs).
-- Evaluated OHDSI/OMOP vs. FHIR data standards, selecting FHIR to support real-time clinical workflows and system interoperability.
+- Evaluated OHDSI/OMOP vs. FHIR data standards, selecting FHIR to support real-time clinical workflows, system interoperability, and alignment with connected-device data standards from prior IoT work.
 
 > *Key Technologies: FHIR, Clinical Data Standards, AI Integration, Healthcare Interoperability.*
 
@@ -29,6 +30,8 @@ EMT-1 certified (Feb, 2025) to validate hands-on interest in healthcare delivery
 * **Matter Protocol Ownership:** Architected a from-scratch dual-stack [Matter](https://www.theverge.com/2023/4/25/23697537/wiz-smart-bulbs-matter-compatible-apple-home) co-existence strategy, aligning development and manufacturing to ship end-to-end compatibility with 5+ Tier 1 partners, including Apple Home, within 12 months. 
 * **Global NPI & SKU Management:** Streamlined NPI processes to enable global Matter rollout for multi-brand portfolios, managing 5,00+ SKUs and 1M+ devices while securing the Top Certifier title in the CSA (2022/2023).
 * **Strategic API Partnerships:** Directed API product and third-party integrations with Google Home, Amazon Alexa, Apple Home, Xiaomi Mijia, and Samsung SmartThings, enabling 1M+ devices to operate seamlessly across platforms.
+* **Fleet Observability & Data Pipelines:** Owned event-driven platform data flows (Kafka, MQTT, device heartbeat) to track Matter vs. WiZ provisioning states across DAC flashing, modelID, and OTA pipelines, enabling fleet-level observability.
+* **Cloud Infrastructure Scaling:** Supported Cloud 3.0 migration to auto-scaling architecture, expanding from EU-only servers to US and APAC regions, reducing latency for a growing 1M+ device fleet.
 * **Amazon FFS Launch:** Enabled WiZ's first Amazon Black Friday campaign partnership in core markets by deploying Frustration Free Setup (FFS) infrastructure within WiZ production lines.
 * **Mobile Platform Ownership:** Owned iOS/Android platform flows including device onboarding, GDPR consent, and ecosystem integration UX, translating global compliance requirements into standardized platform constraints.
 * **Customer Experience & AI:** Improved WiZ NPS by 10% over two quarters by contributing domain expertise and AI RAG-based training data to the customer-facing support system.
