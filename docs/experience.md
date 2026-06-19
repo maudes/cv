@@ -4,7 +4,7 @@
 * **CPE Roadmap & Competitive Positioning:** Shape and prioritize the CPE ODM product roadmap as the internal SME on Matter and smart home protocol standards, directly informing competitive positioning for global ISP client bids.
 * **SoC Ecosystem Alignment:** Partner with chipset vendors including Qualcomm and MediaTek to align platform software capabilities with SoC architectures, resolving integration dependencies to keep mission-critical milestones on track.
 * **Cross-Functional Roadmap Orchestration:** Coordinate roadmaps across ISP clients, chip vendors, and internal R&D teams, bridging technical constraints with business requirements to maintain delivery velocity.
-* **AI-Driven Process Automation:** Automated RFQ workflows and technical spec-fitting analysis using Claude AI, reducing manual processing time by 33% and improving bid response turnaround.
+* **AI-Driven Process Automation:** Automate the technical spec-matching and validation analysis for RFQ workflows using Claude AI, with end-to-end ownership from problem scoping to production deployment, cutting manual processing by 30%.
 * **Industry Standards Engagement:** Participate in prpl working groups and review ecosystem specifications (including RDK-B) to inform platform architecture and maintain alignment with evolving broadband standards.
 * **Regulatory Compliance Leadership:** Driving Wi-Fi 7 and BBF.247 certification processes for CPE platforms; auditing internal UI against EU Accessibility Act (EAA) requirements ahead of 2026 enforcement.
 
