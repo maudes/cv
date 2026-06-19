@@ -13,15 +13,10 @@
 ### **Founder & Product Lead, LightOn**
 <sub> ***Remote |  Nov 2024 - Oct 2025*** </sub>
 
-Self-directed sabbatical to reskill in AI/data and validate a founder path. Completed FreeCodeCamp certifications in relational databases and Python; explored LLM/RAG applications hands-on.
+EMT-1 certified (Feb, 2025) to validate hands-on interest in healthcare delivery; applied that domain knowledge to found an AI-driven, FHIR-standardized platform for hospital intervention workflows.
 
-- Recruited and led a 4-person cross-functional team to build an AI-driven, 
-  FHIR-standardized hospital intervention platform, reaching Finalist at 
-  Civic Tech Taiwan (Ministry of Digital Affairs).
-- Evaluated OHDSI/OMOP vs. FHIR data standards, selecting FHIR to support 
-  real-time clinical workflows and system interoperability.
-- Earned EMT-1 certification, applying frontline healthcare context directly 
-  to product and data-architecture decisions.
+- Recruited and led a 4-person cross-functional team to build an AI-driven, FHIR-standardized hospital intervention platform, reaching Finalist at Civic Tech Taiwan (Ministry of Digital Affairs).
+- Evaluated OHDSI/OMOP vs. FHIR data standards, selecting FHIR to support real-time clinical workflows and system interoperability.
 
 > *Key Technologies: FHIR, Clinical Data Standards, AI Integration, Healthcare Interoperability.*
 
