@@ -11,7 +11,7 @@
 
 ---
 
- - [Linkedin Profile](https://linkedin.com/in/meng-hsueh-shen)
+ - [LinkedIn Profile](https://linkedin.com/in/meng-hsueh-shen)
  - [GitHub Profile](https://github.com/maudes)
 
  <br>
