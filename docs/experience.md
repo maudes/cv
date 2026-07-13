@@ -70,6 +70,14 @@ EMT-1 certified (Feb, 2025) to validate hands-on interest in healthcare delivery
 
 ## SIDE PROJECTS
 
+### **Product Builder, [Mission Reliability](https://github.com/maudes/mission-reliability-project/tree/main)**
+<sub> ***Jun 2026 – Present*** </sub><br>
+
+* Built a proactive reliability layer for law enforcement and security teams to catch body-worn camera failures — frozen devices, silent recording stops, fake-online states — before critical moments, not after.
+* Designed a command center workflow spanning risk detection, manual verification, response coordination, and auditable recovery across active field deployments.
+* Ran sensitivity simulations to find that detection accuracy, not speed, was the trust-critical metric; a 5% accuracy drop triggered trust collapse and a 67% revenue impact, and rebuilt the alerting threshold system around that insight.
+* Prototyped a multi-screen interface with Claude and Lovable, comparing both tools across workflow fidelity, design control, and iteration speed.
+
 ### **Product Builder, Joblens AI Assistant**
 <sub> ***Mar 2026 – Present*** </sub><br>
 
