@@ -23,17 +23,20 @@
 <sub> ***Hong Kong   |  Jul 2021 - Sep 2024*** </sub> 
 <br><br>
 
-**Platform & Ecosystem**<br><br>
+**Platform & Ecosystem** 
+
 - Built WiZ's Matter integration from zero with no internal playbook, authoring the cross-functional decision framework across engineering, manufacturing, and 5+ Tier-1 partners to ship end-to-end within 12 months. Earned CSA Top Certifier 2022 and 2023.
 - Owned dual-direction API platform across 5 ecosystem integrations and 13 contracted enterprise partners including Google, Amazon, and SmartThings, setting integration contracts and unblocking partner onboarding to enable data flows across 1M+ devices.
 - Drove upstream roadmap changes at Google Matter Console and SmartThings by translating manufacturer constraints into partner decisions, and secured a direct Apple engineering channel at BU level to cut pre-launch resolution time.
 - Scaled interoperability testing program across 300+ devices and 100+ external testers in EU and US markets, establishing real-world ecosystem validation coverage that internal resources alone could not achieve.
 
-**Fleet & Data**<br><br>
+**Fleet & Data**
+
 - Mapped a fleet observability blind spot beyond DAC generation, drove backend data collection end-to-end, and delivered the first WiZ-native vs. Matter-only adoption comparison, giving the business its first view into dual-stack provisioning behavior.
 - Supported Cloud 3.0 migration to auto-scaling architecture, expanding from EU-only servers to US and APAC regions, reducing latency for a growing 1M+ device fleet.
 
-**Delivery & GTM**<br><br>
+**Delivery & GTM**
+
 - Closed Amazon Black Friday FFS opportunity end-to-end, orchestrating Amazon, US business, BU head, and engineering into a single cross-functional workstream and delivering factory, backend, and certification readiness within one quarter.
 - Overhauled onboarding UX and GDPR consent flows, cutting support inquiries by 20%. Contributed domain expertise and training data to AI RAG customer support rollout, supporting 10% NPS improvement over two quarters.
 - Led delivery cadence for a 10-member cross-cultural engineering team within SAFe, owning sprint rituals, velocity tracking, and risk management to reduce sprint carryover and improve release predictability.
