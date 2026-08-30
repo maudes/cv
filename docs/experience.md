@@ -2,7 +2,7 @@
 <sub> ***Taipei, Taiwan  |  Nov 2025 - Present*** </sub>
 
 - Assume client-facing ownership for Tier-1 ISP delivery, building a structured communication layer to close alignment gaps between client requirements and engineering constraints, delivering 5 milestones on schedule within 6 months after prior resets.
-- Identify EasyMesh R6 readiness gap between client requirements and prpl maturity, driving alignment across chipset vendors and ISP clients on interim scope and OTA roadmap to keep program milestones on track.
+- Introduced MAC-based open firmware authentication to eliminate UART disassembly, enabling remote testing workflows and extending the approach to production lines to satisfy client security requirements while preserving debug capability.
 - Drive SW certification delivery for CPE platforms including Wi-Fi 7 and EAA compliance, redefining app and embedded GUI scope boundaries with client and lab to eliminate two-thirds of failed line items before retest.
 - Streamline RFQ spec-matching workflows using Claude AI, reducing manual processing time by 30% per bid cycle.
 - Participate in prpl working groups and review ecosystem specifications including RDK-B to inform platform architecture and maintain alignment with evolving broadband standards.
@@ -24,9 +24,9 @@
 **Platform & Ecosystem** 
 
 - Built WiZ's Matter integration from zero with no internal playbook, authoring the cross-functional decision framework across engineering, manufacturing, and 5+ Tier-1 partners to ship 500+ SKUs within 12 months. Earned CSA Top Certifier 2022 and 2023.
-- Owned dual-direction API platform across 5 ecosystem integrations and 13 contracted enterprise partners including Google, Amazon, and SmartThings, setting integration contracts and unblocking partner onboarding to enable data flows across 1M+ devices.
-- Drove Google Matter Console to ship product family flow and SmartThings to build bulk SKU upload by introducing WiZ certification scale, and secured a dedicated Apple engineering channel for joint Matter issue resolution.
-- Scaled interoperability testing program across 300+ devices and 100+ external testers in EU and US markets, establishing real-world ecosystem validation coverage that internal resources alone could not achieve.
+- Owned dual-direction API platform across 5 ecosystem integrations and 13 contracted enterprise partners, defining integration contracts and SLAs, setting up test environments, and managing partner onboarding from initial scoping to production launch across 1M+ connected devices.
+- Drove Google Matter Console to ship product family flow and SmartThings to build bulk SKU upload by introducing WiZ certification scale, and defined API scope for device deduplication across cloud integration paths, with the approach later adopted by Alexa.
+- Scaled interoperability testing program across 300+ devices and 100+ testers sourced through platform partners including Google and Alexa in EU and US markets, establishing ecosystem validation coverage that internal resources could not achieve.
 
 **Fleet & Data**
 
