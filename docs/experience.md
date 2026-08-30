@@ -7,7 +7,6 @@
 - Streamline RFQ spec-matching workflows using Claude AI, reducing manual processing time by 30% per bid cycle.
 - Participate in prpl working groups and review ecosystem specifications including RDK-B to inform platform architecture and maintain alignment with evolving broadband standards.
 
-
 ---
 ### **Founder & Product Lead, LightOn**
 <sub> ***Remote |  Nov 2024 - Oct 2025*** </sub>
@@ -15,7 +14,6 @@
 - Founded LightOn, a FHIR-based AI assistant for hospital early intervention workflows, leading product discovery, standards evaluation, and a 4-person cross-functional team from zero. Reached finalist at Civic Tech Taiwan 2025.
 - Evaluated OHDSI/OMOP vs. FHIR data standards, selecting FHIR to support real-time clinical workflows, system interoperability, and alignment with connected-device data standards from prior IoT work.
 - EMT-1 certified (Feb 2025) to validate hands-on interest in healthcare delivery before committing to the product direction.
-
 
 ---
 
@@ -38,7 +36,8 @@
 **Delivery & GTM**
 
 - Closed WiZ's first Amazon Black Friday FFS opportunity end-to-end, unifying Amazon, US business, BU head, and engineering to achieve FFS certification within one quarter and unlock Alexa bundle placement in the highest-traffic US sales channel.
-- Overhauled onboarding UX and GDPR consent flows, cutting support inquiries by 20%. Contributed domain expertise and training data to AI RAG customer support rollout, supporting 10% NPS improvement over two quarters.
+- Overhauled onboarding UX and GDPR consent flows, cutting support inquiries by 20%. 
+- Contributed domain expertise, training data, and acceptance criteria to AI RAG customer support rollout, defining test cases to validate output quality and supporting 10% NPS improvement over two quarters.
 - Led delivery cadence for a more than 10-member cross-cultural engineering team within SAFe, owning sprint rituals, velocity tracking, and risk management to reduce sprint carryover and improve release predictability.
 
 > *2024 Q2 Excellence Award · 2022 Annual Excellence Award — Signify WiZ Business Unit*
