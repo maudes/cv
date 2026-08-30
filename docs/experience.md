@@ -25,21 +25,21 @@
 
 **Platform & Ecosystem** 
 
-- Built WiZ's Matter integration from zero with no internal playbook, authoring the cross-functional decision framework across engineering, manufacturing, and 5+ Tier-1 partners to ship end-to-end within 12 months. Earned CSA Top Certifier 2022 and 2023.
+- Built WiZ's Matter integration from zero with no internal playbook, authoring the cross-functional decision framework across engineering, manufacturing, and 5+ Tier-1 partners to ship 500+ SKUs within 12 months. Earned CSA Top Certifier 2022 and 2023.
 - Owned dual-direction API platform across 5 ecosystem integrations and 13 contracted enterprise partners including Google, Amazon, and SmartThings, setting integration contracts and unblocking partner onboarding to enable data flows across 1M+ devices.
-- Drove upstream roadmap changes at Google Matter Console and SmartThings by translating manufacturer constraints into partner decisions, and secured a direct Apple engineering channel at BU level to cut pre-launch resolution time.
+- Drove Google Matter Console to ship product family flow and SmartThings to build bulk SKU upload by introducing WiZ certification scale, and secured a dedicated Apple engineering channel for joint Matter issue resolution.
 - Scaled interoperability testing program across 300+ devices and 100+ external testers in EU and US markets, establishing real-world ecosystem validation coverage that internal resources alone could not achieve.
 
 **Fleet & Data**
 
-- Mapped a fleet observability blind spot beyond DAC generation, drove backend data collection end-to-end, and delivered the first WiZ-native vs. Matter-only adoption comparison, giving the business its first view into dual-stack provisioning behavior.
-- Supported Cloud 3.0 migration to auto-scaling architecture, expanding from EU-only servers to US and APAC regions, reducing latency for a growing 1M+ device fleet.
+- Mapped a fleet observability blind spot beyond DAC generation in a 1M+ device fleet, drove backend data collection end-to-end, and delivered the first WiZ-native vs. Matter-only adoption comparison, giving the business its first view into dual-stack behavior.
+- Supported Cloud 3.0 migration to auto-scaling architecture, expanding from EU-only servers to US and APAC regions, reducing latency for a growing 1M+ device fleet without downtime.
 
 **Delivery & GTM**
 
-- Closed Amazon Black Friday FFS opportunity end-to-end, orchestrating Amazon, US business, BU head, and engineering into a single cross-functional workstream and delivering factory, backend, and certification readiness within one quarter.
+- Closed WiZ's first Amazon Black Friday FFS opportunity end-to-end, unifying Amazon, US business, BU head, and engineering to achieve FFS certification within one quarter and unlock Alexa bundle placement in the highest-traffic US sales channel.
 - Overhauled onboarding UX and GDPR consent flows, cutting support inquiries by 20%. Contributed domain expertise and training data to AI RAG customer support rollout, supporting 10% NPS improvement over two quarters.
-- Led delivery cadence for a 10-member cross-cultural engineering team within SAFe, owning sprint rituals, velocity tracking, and risk management to reduce sprint carryover and improve release predictability.
+- Led delivery cadence for a more than 10-member cross-cultural engineering team within SAFe, owning sprint rituals, velocity tracking, and risk management to reduce sprint carryover and improve release predictability.
 
 > *2024 Q2 Excellence Award · 2022 Annual Excellence Award — Signify WiZ Business Unit*
 
@@ -52,7 +52,7 @@
 - Delivered iGaming SaaS MVP 0→1 in 6 months. Used SQL behavioral analytics to reprioritize the Sports App roadmap, driving 20% adoption lift across 5k MAU and ¥20M monthly transaction volume.
 - Transformed the sports betting application through user-research-driven prioritization, yielding 5% user growth within 3 months.
 - Used SQL-based analytics to prioritize product portfolios including Lotteries and Slots, aligning development with shifting market trends and business KPIs.
-- Served as Scrum Master within SAFe, owning sprint rituals, velocity tracking, and risk management across a 10-member cross-cultural engineering team, improving delivery predictability and reducing sprint carryover.
+- Served as Scrum Master, owning sprint rituals, velocity tracking, and risk management across a 10-member cross-cultural engineering team, improving delivery predictability and reducing sprint carryover.
 
 ---
 
