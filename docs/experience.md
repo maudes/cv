@@ -37,7 +37,7 @@
 
 - Closed WiZ's first Amazon Black Friday FFS opportunity end-to-end, unifying Amazon, US business, BU head, and engineering to achieve FFS certification within one quarter and unlock Alexa bundle placement in the highest-traffic US sales channel.
 - Overhauled onboarding UX and GDPR consent flows, cutting support inquiries by 20%. 
-- Contributed domain expertise, training data, and acceptance criteria to AI RAG customer support rollout, defining test cases to validate output quality and supporting 10% NPS improvement over two quarters.
+- Contributed platform integration knowledge base and acceptance criteria to AI RAG customer support rollout, defining test cases to validate output quality and improving NPS 10% over two quarters.
 - Led delivery cadence for a more than 10-member cross-cultural engineering team within SAFe, owning sprint rituals, velocity tracking, and risk management to reduce sprint carryover and improve release predictability.
 
 > *2024 Q2 Excellence Award · 2022 Annual Excellence Award — Signify WiZ Business Unit*
