@@ -1,7 +1,7 @@
 ### **Software Product Manager, [General Mobile](https://www.generalmobile.com/) | Fii, Foxconn** <br>
 <sub> ***Taipei, Taiwan  |  Nov 2025 - Present*** </sub>
 
-- Assume client-facing ownership for Tier-1 ISP delivery, building a structured communication layer to close alignment gaps between client requirements and engineering constraints, delivering 5 milestones on schedule within 6 months after prior resets.
+- Own client-facing delivery for Tier-1 ISP programs, establishing a structured communication layer between client requirements and engineering constraints and delivering 5 milestones on schedule within 6 months after prior resets.
 - Introduced MAC-based open firmware authentication to eliminate UART disassembly, enabling remote testing workflows and extending the approach to production lines to satisfy client security requirements while preserving debug capability.
 - Drive SW certification delivery for CPE platforms including Wi-Fi 7 and EAA compliance, redefining app and embedded GUI scope boundaries with client and lab to eliminate two-thirds of failed line items before retest.
 - Streamline RFQ spec-matching workflows using Claude AI, reducing manual processing time by 30% per bid cycle.
