@@ -1,9 +1,9 @@
 ### **Software Product Manager, [General Mobile](https://www.generalmobile.com/) | Fii, Foxconn** <br>
 <sub> ***Taipei, Taiwan  |  Nov 2025 - Present*** </sub>
 
-- Own client-facing delivery for Tier-1 ISP programs, establishing a structured communication layer between client requirements and engineering constraints and delivering 5 milestones on schedule within 6 months after prior resets.
+- Own client-facing delivery for Tier-1 ISP programs and platform roadmap, establishing a stakeholder management layer between client requirements and engineering constraints and delivering 5 milestones on schedule within 6 months after prior resets.
 - Introduced MAC-based open firmware authentication to eliminate UART disassembly, enabling remote testing workflows and extending the approach to production lines to satisfy client security requirements while preserving debug capability.
-- Drive SW certification delivery for CPE platforms including Wi-Fi 7 and EAA compliance, redefining app and embedded GUI scope boundaries with client and lab to eliminate two-thirds of failed line items before retest.
+- Drive SW certification compliance for CPE platforms including Wi-Fi 7 and EAA compliance, redefining app and embedded GUI scope boundaries with client and lab to eliminate two-thirds of failed line items before retest.
 - Streamline RFQ spec-matching workflows using Claude AI, reducing manual processing time by 30% per bid cycle.
 - Participate in prpl working groups and review ecosystem specifications including RDK-B to inform platform architecture and maintain alignment with evolving broadband standards.
 
@@ -30,12 +30,12 @@
 
 **Fleet & Data**
 
-- Mapped a fleet observability blind spot beyond DAC generation in a 1M+ device fleet, drove backend data collection end-to-end, and delivered the first WiZ-native vs. Matter-only adoption comparison, giving the business its first view into dual-stack behavior.
+- Mapped a fleet management blind spot beyond DAC generation in a 1M+ device fleet, drove backend data collection end-to-end, and delivered the first WiZ-native vs. Matter-only adoption comparison, informing platform scalability decisions across a dual-stack fleet.
 - Supported Cloud 3.0 migration to auto-scaling architecture, expanding from EU-only servers to US and APAC regions, reducing latency for a growing 1M+ device fleet without downtime.
 
 **Delivery & GTM**
 
-- Closed WiZ's first Amazon Black Friday FFS opportunity end-to-end, unifying Amazon, US business, BU head, and engineering to achieve FFS certification within one quarter and unlock Alexa bundle placement in the highest-traffic US sales channel.
+- Closed WiZ's first Amazon Black Friday GTM opportunity end-to-end, unifying Amazon, US business, BU head, and engineering to achieve FFS certification within one quarter and unlock Alexa bundle placement in the highest-traffic US sales channel.
 - Overhauled onboarding UX and GDPR consent flows, cutting support inquiries by 20%. 
 - Contributed platform integration knowledge base and acceptance criteria to AI RAG customer support rollout, defining eval criteria and test cases to validate output quality and improving NPS 10% over two quarters.
 - Led delivery cadence for a more than 10-member cross-cultural engineering team within SAFe, owning sprint rituals, velocity tracking, and risk management to reduce sprint carryover and improve release predictability.
