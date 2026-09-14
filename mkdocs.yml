@@ -65,7 +65,7 @@ extra:
 
   analytics:
     provider: google
-    property: G-VMPJPX43P9
+    property: G-BHN5D0SF9L
 
 nav:
   - ABOUT ME: index.md
