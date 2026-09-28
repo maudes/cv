@@ -5,7 +5,7 @@
 * **Technical Literacy:** Python (FastAPI, pandas), SQL, Bash scripting, Git, AWS, GCP, LLM integration (Claude, Gemini), n8n workflow automation
 
 ### **IoT & Connectivity Standards**
-* **Protocols:** Matter, Thread, Wi-Fi 7/8, Zigbee, BLE, OpenSync, RDK-B, prpl
+* **Protocols:** Matter, Thread, Wi-Fi 7/8, Zigbee, BLE, OpenWRT, OpenSync, RDK-B, prpl
 * **Ecosystems:** Google Home, Amazon Alexa, Apple Home, SmartThings, Xiaomi Mijia, Amazon FFS, CSA
 
 ### **Regulatory & Compliance Awareness**
